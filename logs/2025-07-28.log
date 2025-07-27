@@ -7717,3 +7717,1279 @@
 2025-07-28 00:43:07,311 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_009.html
 2025-07-28 00:43:07,322 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
 2025-07-28 00:43:07,333 - INFO - Finished in 1.51 seconds.
+2025-07-28 01:02:05,264 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:02:05,271 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss with 0 images.
+2025-07-28 01:02:05,273 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\2024 trip with 6 images.
+2025-07-28 01:02:05,274 - INFO - Finished with - Board: 2024 trip, page 1 of 1
+2025-07-28 01:02:05,274 - INFO - Board created for: 2024 trip, with 6 images.
+2025-07-28 01:02:05,281 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Academic with 19 images.
+2025-07-28 01:02:05,282 - INFO - Finished with - Board: Academic, page 1 of 1
+2025-07-28 01:02:05,282 - INFO - Board created for: Academic, with 19 images.
+2025-07-28 01:02:05,322 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions with 201 images.
+2025-07-28 01:02:05,324 - INFO - Finished with - Board: anime expressions, page 1 of 5
+2025-07-28 01:02:05,325 - INFO - Finished with - Board: anime expressions, page 2 of 5
+2025-07-28 01:02:05,325 - INFO - Finished with - Board: anime expressions, page 3 of 5
+2025-07-28 01:02:05,325 - INFO - Finished with - Board: anime expressions, page 4 of 5
+2025-07-28 01:02:05,325 - INFO - Finished with - Board: anime expressions, page 5 of 5
+2025-07-28 01:02:05,326 - INFO - Board created for: anime expressions, with 201 images.
+2025-07-28 01:02:05,333 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\frieren with 33 images.
+2025-07-28 01:02:05,334 - INFO - Finished with - Board: anime expressions_~frieren, page 1 of 1
+2025-07-28 01:02:05,334 - INFO - Board created for: anime expressions_~frieren, with 33 images.
+2025-07-28 01:02:05,354 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\maomao with 97 images.
+2025-07-28 01:02:05,356 - INFO - Finished with - Board: anime expressions_~maomao, page 1 of 3
+2025-07-28 01:02:05,356 - INFO - Finished with - Board: anime expressions_~maomao, page 2 of 3
+2025-07-28 01:02:05,356 - INFO - Finished with - Board: anime expressions_~maomao, page 3 of 3
+2025-07-28 01:02:05,357 - INFO - Board created for: anime expressions_~maomao, with 97 images.
+2025-07-28 01:02:05,360 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\memes with 21 images.
+2025-07-28 01:02:05,362 - INFO - Finished with - Board: anime expressions_~memes, page 1 of 1
+2025-07-28 01:02:05,362 - INFO - Board created for: anime expressions_~memes, with 21 images.
+2025-07-28 01:02:05,368 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\Misc with 21 images.
+2025-07-28 01:02:05,369 - INFO - Finished with - Board: anime expressions_~Misc, page 1 of 1
+2025-07-28 01:02:05,370 - INFO - Board created for: anime expressions_~Misc, with 21 images.
+2025-07-28 01:02:05,445 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Artworks with 428 images.
+2025-07-28 01:02:05,447 - INFO - Finished with - Board: Artworks, page 1 of 11
+2025-07-28 01:02:05,447 - INFO - Finished with - Board: Artworks, page 2 of 11
+2025-07-28 01:02:05,447 - INFO - Finished with - Board: Artworks, page 3 of 11
+2025-07-28 01:02:05,448 - INFO - Finished with - Board: Artworks, page 4 of 11
+2025-07-28 01:02:05,448 - INFO - Finished with - Board: Artworks, page 5 of 11
+2025-07-28 01:02:05,448 - INFO - Finished with - Board: Artworks, page 6 of 11
+2025-07-28 01:02:05,448 - INFO - Finished with - Board: Artworks, page 7 of 11
+2025-07-28 01:02:05,449 - INFO - Finished with - Board: Artworks, page 8 of 11
+2025-07-28 01:02:05,449 - INFO - Finished with - Board: Artworks, page 9 of 11
+2025-07-28 01:02:05,449 - INFO - Finished with - Board: Artworks, page 10 of 11
+2025-07-28 01:02:05,449 - INFO - Finished with - Board: Artworks, page 11 of 11
+2025-07-28 01:02:05,450 - INFO - Board created for: Artworks, with 428 images.
+2025-07-28 01:02:05,452 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Author stuff with 7 images.
+2025-07-28 01:02:05,452 - INFO - Finished with - Board: Author stuff, page 1 of 1
+2025-07-28 01:02:05,452 - INFO - Board created for: Author stuff, with 7 images.
+2025-07-28 01:02:05,456 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs with 14 images.
+2025-07-28 01:02:05,457 - INFO - Finished with - Board: Book Recs, page 1 of 1
+2025-07-28 01:02:05,457 - INFO - Board created for: Book Recs, with 14 images.
+2025-07-28 01:02:05,481 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs\to be removed with 103 images.
+2025-07-28 01:02:05,482 - INFO - Finished with - Board: Book Recs_~to be removed, page 1 of 3
+2025-07-28 01:02:05,482 - INFO - Finished with - Board: Book Recs_~to be removed, page 2 of 3
+2025-07-28 01:02:05,483 - INFO - Finished with - Board: Book Recs_~to be removed, page 3 of 3
+2025-07-28 01:02:05,483 - INFO - Board created for: Book Recs_~to be removed, with 103 images.
+2025-07-28 01:02:05,510 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\couple with 151 images.
+2025-07-28 01:02:05,512 - INFO - Finished with - Board: couple, page 1 of 4
+2025-07-28 01:02:05,513 - INFO - Finished with - Board: couple, page 2 of 4
+2025-07-28 01:02:05,513 - INFO - Finished with - Board: couple, page 3 of 4
+2025-07-28 01:02:05,513 - INFO - Finished with - Board: couple, page 4 of 4
+2025-07-28 01:02:05,513 - INFO - Board created for: couple, with 151 images.
+2025-07-28 01:02:05,551 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces with 190 images.
+2025-07-28 01:02:05,552 - INFO - Finished with - Board: Faces, page 1 of 5
+2025-07-28 01:02:05,553 - INFO - Finished with - Board: Faces, page 2 of 5
+2025-07-28 01:02:05,553 - INFO - Finished with - Board: Faces, page 3 of 5
+2025-07-28 01:02:05,553 - INFO - Finished with - Board: Faces, page 4 of 5
+2025-07-28 01:02:05,553 - INFO - Finished with - Board: Faces, page 5 of 5
+2025-07-28 01:02:05,554 - INFO - Board created for: Faces, with 190 images.
+2025-07-28 01:02:05,556 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces\hair with 10 images.
+2025-07-28 01:02:05,557 - INFO - Finished with - Board: Faces_~hair, page 1 of 1
+2025-07-28 01:02:05,557 - INFO - Board created for: Faces_~hair, with 10 images.
+2025-07-28 01:02:05,557 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure Drawing with 0 images.
+2025-07-28 01:02:05,558 - INFO - Board created for: Figure Drawing, with 0 images.
+2025-07-28 01:02:05,570 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure drawing examples with 49 images.
+2025-07-28 01:02:05,571 - INFO - Finished with - Board: Figure drawing examples, page 1 of 2
+2025-07-28 01:02:05,572 - INFO - Finished with - Board: Figure drawing examples, page 2 of 2
+2025-07-28 01:02:05,572 - INFO - Board created for: Figure drawing examples, with 49 images.
+2025-07-28 01:02:05,581 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc with 40 images.
+2025-07-28 01:02:05,582 - INFO - Finished with - Board: Misc, page 1 of 1
+2025-07-28 01:02:05,582 - INFO - Board created for: Misc, with 40 images.
+2025-07-28 01:02:05,586 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Art tut with 15 images.
+2025-07-28 01:02:05,586 - INFO - Finished with - Board: Misc_~Art tut, page 1 of 1
+2025-07-28 01:02:05,586 - INFO - Board created for: Misc_~Art tut, with 15 images.
+2025-07-28 01:02:05,588 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\coffee with 6 images.
+2025-07-28 01:02:05,589 - INFO - Finished with - Board: Misc_~coffee, page 1 of 1
+2025-07-28 01:02:05,589 - INFO - Board created for: Misc_~coffee, with 6 images.
+2025-07-28 01:02:05,590 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Exercise stuff with 3 images.
+2025-07-28 01:02:05,591 - INFO - Finished with - Board: Misc_~Exercise stuff, page 1 of 1
+2025-07-28 01:02:05,592 - INFO - Board created for: Misc_~Exercise stuff, with 3 images.
+2025-07-28 01:02:05,596 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl with 15 images.
+2025-07-28 01:02:05,597 - INFO - Finished with - Board: Particular ppl, page 1 of 1
+2025-07-28 01:02:05,597 - INFO - Board created for: Particular ppl, with 15 images.
+2025-07-28 01:02:05,607 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\froesmari with 48 images.
+2025-07-28 01:02:05,609 - INFO - Finished with - Board: Particular ppl_~froesmari, page 1 of 2
+2025-07-28 01:02:05,609 - INFO - Finished with - Board: Particular ppl_~froesmari, page 2 of 2
+2025-07-28 01:02:05,609 - INFO - Board created for: Particular ppl_~froesmari, with 48 images.
+2025-07-28 01:02:05,622 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\mikkak.x with 58 images.
+2025-07-28 01:02:05,623 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 1 of 2
+2025-07-28 01:02:05,623 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 2 of 2
+2025-07-28 01:02:05,624 - INFO - Board created for: Particular ppl_~mikkak.x, with 58 images.
+2025-07-28 01:02:05,628 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\sabrinaNichole with 17 images.
+2025-07-28 01:02:05,629 - INFO - Finished with - Board: Particular ppl_~sabrinaNichole, page 1 of 1
+2025-07-28 01:02:05,629 - INFO - Board created for: Particular ppl_~sabrinaNichole, with 17 images.
+2025-07-28 01:02:05,634 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\taylorlashae with 18 images.
+2025-07-28 01:02:05,635 - INFO - Finished with - Board: Particular ppl_~taylorlashae, page 1 of 1
+2025-07-28 01:02:05,635 - INFO - Board created for: Particular ppl_~taylorlashae, with 18 images.
+2025-07-28 01:02:05,646 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\yuprntae with 29 images.
+2025-07-28 01:02:05,647 - INFO - Finished with - Board: Particular ppl_~yuprntae, page 1 of 1
+2025-07-28 01:02:05,647 - INFO - Board created for: Particular ppl_~yuprntae, with 29 images.
+2025-07-28 01:02:05,657 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\possibly ai art with 45 images.
+2025-07-28 01:02:05,658 - INFO - Finished with - Board: possibly ai art, page 1 of 2
+2025-07-28 01:02:05,658 - INFO - Finished with - Board: possibly ai art, page 2 of 2
+2025-07-28 01:02:05,659 - INFO - Board created for: possibly ai art, with 45 images.
+2025-07-28 01:02:05,662 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Pretty wallpapers with 4 images.
+2025-07-28 01:02:05,663 - INFO - Finished with - Board: Pretty wallpapers, page 1 of 1
+2025-07-28 01:02:05,664 - INFO - Board created for: Pretty wallpapers, with 4 images.
+2025-07-28 01:02:05,722 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Quotes with 223 images.
+2025-07-28 01:02:05,723 - INFO - Finished with - Board: Quotes, page 1 of 6
+2025-07-28 01:02:05,723 - INFO - Finished with - Board: Quotes, page 2 of 6
+2025-07-28 01:02:05,723 - INFO - Finished with - Board: Quotes, page 3 of 6
+2025-07-28 01:02:05,723 - INFO - Finished with - Board: Quotes, page 4 of 6
+2025-07-28 01:02:05,723 - INFO - Finished with - Board: Quotes, page 5 of 6
+2025-07-28 01:02:05,724 - INFO - Finished with - Board: Quotes, page 6 of 6
+2025-07-28 01:02:05,724 - INFO - Board created for: Quotes, with 223 images.
+2025-07-28 01:02:05,747 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\tattoos with 91 images.
+2025-07-28 01:02:05,748 - INFO - Finished with - Board: tattoos, page 1 of 3
+2025-07-28 01:02:05,748 - INFO - Finished with - Board: tattoos, page 2 of 3
+2025-07-28 01:02:05,748 - INFO - Finished with - Board: tattoos, page 3 of 3
+2025-07-28 01:02:05,748 - INFO - Board created for: tattoos, with 91 images.
+2025-07-28 01:02:05,749 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink with 0 images.
+2025-07-28 01:02:05,772 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\anatomy (morphology) with 107 images.
+2025-07-28 01:02:05,773 - INFO - Finished with - Board: anatomy (morphology), page 1 of 3
+2025-07-28 01:02:05,773 - INFO - Finished with - Board: anatomy (morphology), page 2 of 3
+2025-07-28 01:02:05,773 - INFO - Finished with - Board: anatomy (morphology), page 3 of 3
+2025-07-28 01:02:05,773 - INFO - Board created for: anatomy (morphology), with 107 images.
+2025-07-28 01:02:05,774 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\artworks with 0 images.
+2025-07-28 01:02:05,775 - INFO - Board created for: artworks, with 0 images.
+2025-07-28 01:02:05,779 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\backgrounds with 8 images.
+2025-07-28 01:02:05,780 - INFO - Finished with - Board: backgrounds, page 1 of 1
+2025-07-28 01:02:05,780 - INFO - Board created for: backgrounds, with 8 images.
+2025-07-28 01:02:05,806 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Faces drawing inspo with 123 images.
+2025-07-28 01:02:05,807 - INFO - Finished with - Board: Faces drawing inspo, page 1 of 3
+2025-07-28 01:02:05,808 - INFO - Finished with - Board: Faces drawing inspo, page 2 of 3
+2025-07-28 01:02:05,808 - INFO - Finished with - Board: Faces drawing inspo, page 3 of 3
+2025-07-28 01:02:05,808 - INFO - Board created for: Faces drawing inspo, with 123 images.
+2025-07-28 01:02:05,811 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\glass objects with 10 images.
+2025-07-28 01:02:05,813 - INFO - Finished with - Board: glass objects, page 1 of 1
+2025-07-28 01:02:05,813 - INFO - Board created for: glass objects, with 10 images.
+2025-07-28 01:02:05,832 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Info with 85 images.
+2025-07-28 01:02:05,832 - INFO - Finished with - Board: Info, page 1 of 3
+2025-07-28 01:02:05,832 - INFO - Finished with - Board: Info, page 2 of 3
+2025-07-28 01:02:05,833 - INFO - Finished with - Board: Info, page 3 of 3
+2025-07-28 01:02:05,833 - INFO - Board created for: Info, with 85 images.
+2025-07-28 01:02:05,839 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Jewelery with 33 images.
+2025-07-28 01:02:05,840 - INFO - Finished with - Board: Jewelery, page 1 of 1
+2025-07-28 01:02:05,841 - INFO - Board created for: Jewelery, with 33 images.
+2025-07-28 01:02:05,850 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\little living things with 33 images.
+2025-07-28 01:02:05,850 - INFO - Finished with - Board: little living things, page 1 of 1
+2025-07-28 01:02:05,851 - INFO - Board created for: little living things, with 33 images.
+2025-07-28 01:02:05,858 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazine cover designs with 35 images.
+2025-07-28 01:02:05,859 - INFO - Finished with - Board: magazine cover designs, page 1 of 1
+2025-07-28 01:02:05,859 - INFO - Board created for: magazine cover designs, with 35 images.
+2025-07-28 01:02:05,867 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazines with 34 images.
+2025-07-28 01:02:05,868 - INFO - Finished with - Board: magazines, page 1 of 1
+2025-07-28 01:02:05,869 - INFO - Board created for: magazines, with 34 images.
+2025-07-28 01:02:05,874 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Media with 28 images.
+2025-07-28 01:02:05,875 - INFO - Finished with - Board: Media, page 1 of 1
+2025-07-28 01:02:05,875 - INFO - Board created for: Media, with 28 images.
+2025-07-28 01:02:05,899 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\memes with 112 images.
+2025-07-28 01:02:05,899 - INFO - Finished with - Board: memes, page 1 of 3
+2025-07-28 01:02:05,899 - INFO - Finished with - Board: memes, page 2 of 3
+2025-07-28 01:02:05,900 - INFO - Finished with - Board: memes, page 3 of 3
+2025-07-28 01:02:05,900 - INFO - Board created for: memes, with 112 images.
+2025-07-28 01:02:05,929 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\normal poses with 133 images.
+2025-07-28 01:02:05,929 - INFO - Finished with - Board: normal poses, page 1 of 4
+2025-07-28 01:02:05,930 - INFO - Finished with - Board: normal poses, page 2 of 4
+2025-07-28 01:02:05,931 - INFO - Finished with - Board: normal poses, page 3 of 4
+2025-07-28 01:02:05,931 - INFO - Finished with - Board: normal poses, page 4 of 4
+2025-07-28 01:02:05,931 - INFO - Board created for: normal poses, with 133 images.
+2025-07-28 01:02:05,985 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\outfits with 274 images.
+2025-07-28 01:02:05,986 - INFO - Finished with - Board: outfits, page 1 of 7
+2025-07-28 01:02:05,986 - INFO - Finished with - Board: outfits, page 2 of 7
+2025-07-28 01:02:05,986 - INFO - Finished with - Board: outfits, page 3 of 7
+2025-07-28 01:02:05,987 - INFO - Finished with - Board: outfits, page 4 of 7
+2025-07-28 01:02:05,987 - INFO - Finished with - Board: outfits, page 5 of 7
+2025-07-28 01:02:05,987 - INFO - Finished with - Board: outfits, page 6 of 7
+2025-07-28 01:02:05,987 - INFO - Finished with - Board: outfits, page 7 of 7
+2025-07-28 01:02:05,987 - INFO - Board created for: outfits, with 274 images.
+2025-07-28 01:02:05,992 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\portraits with 24 images.
+2025-07-28 01:02:05,993 - INFO - Finished with - Board: portraits, page 1 of 1
+2025-07-28 01:02:05,993 - INFO - Board created for: portraits, with 24 images.
+2025-07-28 01:02:06,037 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Poses to draw with 227 images.
+2025-07-28 01:02:06,039 - INFO - Finished with - Board: Poses to draw, page 1 of 6
+2025-07-28 01:02:06,040 - INFO - Finished with - Board: Poses to draw, page 2 of 6
+2025-07-28 01:02:06,040 - INFO - Finished with - Board: Poses to draw, page 3 of 6
+2025-07-28 01:02:06,040 - INFO - Finished with - Board: Poses to draw, page 4 of 6
+2025-07-28 01:02:06,040 - INFO - Finished with - Board: Poses to draw, page 5 of 6
+2025-07-28 01:02:06,041 - INFO - Finished with - Board: Poses to draw, page 6 of 6
+2025-07-28 01:02:06,041 - INFO - Board created for: Poses to draw, with 227 images.
+2025-07-28 01:02:06,048 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\self care with 29 images.
+2025-07-28 01:02:06,049 - INFO - Finished with - Board: self care, page 1 of 1
+2025-07-28 01:02:06,050 - INFO - Board created for: self care, with 29 images.
+2025-07-28 01:02:06,056 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\think bout it with 36 images.
+2025-07-28 01:02:06,057 - INFO - Finished with - Board: think bout it, page 1 of 1
+2025-07-28 01:02:06,058 - INFO - Board created for: think bout it, with 36 images.
+2025-07-28 01:02:06,082 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\uncommon poses with 108 images.
+2025-07-28 01:02:06,083 - INFO - Finished with - Board: uncommon poses, page 1 of 3
+2025-07-28 01:02:06,083 - INFO - Finished with - Board: uncommon poses, page 2 of 3
+2025-07-28 01:02:06,084 - INFO - Finished with - Board: uncommon poses, page 3 of 3
+2025-07-28 01:02:06,084 - INFO - Board created for: uncommon poses, with 108 images.
+2025-07-28 01:02:06,085 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\vivian james with 8 images.
+2025-07-28 01:02:06,086 - INFO - Finished with - Board: vivian james, page 1 of 1
+2025-07-28 01:02:06,086 - INFO - Board created for: vivian james, with 8 images.
+2025-07-28 01:02:06,163 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Writing and Drawing Guides with 378 images.
+2025-07-28 01:02:06,164 - INFO - Finished with - Board: Writing and Drawing Guides, page 1 of 9
+2025-07-28 01:02:06,164 - INFO - Finished with - Board: Writing and Drawing Guides, page 2 of 9
+2025-07-28 01:02:06,164 - INFO - Finished with - Board: Writing and Drawing Guides, page 3 of 9
+2025-07-28 01:02:06,164 - INFO - Finished with - Board: Writing and Drawing Guides, page 4 of 9
+2025-07-28 01:02:06,164 - INFO - Finished with - Board: Writing and Drawing Guides, page 5 of 9
+2025-07-28 01:02:06,165 - INFO - Finished with - Board: Writing and Drawing Guides, page 6 of 9
+2025-07-28 01:02:06,165 - INFO - Finished with - Board: Writing and Drawing Guides, page 7 of 9
+2025-07-28 01:02:06,165 - INFO - Finished with - Board: Writing and Drawing Guides, page 8 of 9
+2025-07-28 01:02:06,166 - INFO - Finished with - Board: Writing and Drawing Guides, page 9 of 9
+2025-07-28 01:02:06,166 - INFO - Board created for: Writing and Drawing Guides, with 378 images.
+2025-07-28 01:02:06,170 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\2024 trip_001.html
+2025-07-28 01:02:06,175 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Academic_001.html
+2025-07-28 01:02:06,183 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_001.html
+2025-07-28 01:02:06,186 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_002.html
+2025-07-28 01:02:06,189 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_003.html
+2025-07-28 01:02:06,191 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_004.html
+2025-07-28 01:02:06,195 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_005.html
+2025-07-28 01:02:06,201 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~frieren_001.html
+2025-07-28 01:02:06,204 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_001.html
+2025-07-28 01:02:06,208 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_002.html
+2025-07-28 01:02:06,210 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_003.html
+2025-07-28 01:02:06,217 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~memes_001.html
+2025-07-28 01:02:06,221 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~Misc_001.html
+2025-07-28 01:02:06,225 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_001.html
+2025-07-28 01:02:06,230 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_002.html
+2025-07-28 01:02:06,233 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_003.html
+2025-07-28 01:02:06,236 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_004.html
+2025-07-28 01:02:06,238 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_005.html
+2025-07-28 01:02:06,241 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_006.html
+2025-07-28 01:02:06,246 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_007.html
+2025-07-28 01:02:06,250 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_008.html
+2025-07-28 01:02:06,253 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_009.html
+2025-07-28 01:02:06,256 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_010.html
+2025-07-28 01:02:06,258 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_011.html
+2025-07-28 01:02:06,265 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Author stuff_001.html
+2025-07-28 01:02:06,269 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_001.html
+2025-07-28 01:02:06,274 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_001.html
+2025-07-28 01:02:06,279 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_002.html
+2025-07-28 01:02:06,283 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_003.html
+2025-07-28 01:02:06,287 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_001.html
+2025-07-28 01:02:06,290 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_002.html
+2025-07-28 01:02:06,292 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_003.html
+2025-07-28 01:02:06,297 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_004.html
+2025-07-28 01:02:06,301 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_001.html
+2025-07-28 01:02:06,304 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_002.html
+2025-07-28 01:02:06,307 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_003.html
+2025-07-28 01:02:06,311 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_004.html
+2025-07-28 01:02:06,315 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_005.html
+2025-07-28 01:02:06,320 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_~hair_001.html
+2025-07-28 01:02:06,328 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_001.html
+2025-07-28 01:02:06,331 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_002.html
+2025-07-28 01:02:06,336 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_001.html
+2025-07-28 01:02:06,340 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Art tut_001.html
+2025-07-28 01:02:06,346 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~coffee_001.html
+2025-07-28 01:02:06,350 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Exercise stuff_001.html
+2025-07-28 01:02:06,354 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_001.html
+2025-07-28 01:02:06,359 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_001.html
+2025-07-28 01:02:06,365 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_002.html
+2025-07-28 01:02:06,370 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_001.html
+2025-07-28 01:02:06,372 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_002.html
+2025-07-28 01:02:06,377 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~sabrinaNichole_001.html
+2025-07-28 01:02:06,383 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~taylorlashae_001.html
+2025-07-28 01:02:06,388 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~yuprntae_001.html
+2025-07-28 01:02:06,393 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_001.html
+2025-07-28 01:02:06,397 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_002.html
+2025-07-28 01:02:06,401 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Pretty wallpapers_001.html
+2025-07-28 01:02:06,405 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_001.html
+2025-07-28 01:02:06,408 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_002.html
+2025-07-28 01:02:06,412 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_003.html
+2025-07-28 01:02:06,416 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_004.html
+2025-07-28 01:02:06,419 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_005.html
+2025-07-28 01:02:06,421 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_006.html
+2025-07-28 01:02:06,426 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_001.html
+2025-07-28 01:02:06,431 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_002.html
+2025-07-28 01:02:06,433 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_003.html
+2025-07-28 01:02:06,437 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_001.html
+2025-07-28 01:02:06,440 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_002.html
+2025-07-28 01:02:06,443 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_003.html
+2025-07-28 01:02:06,451 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\backgrounds_001.html
+2025-07-28 01:02:06,456 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_001.html
+2025-07-28 01:02:06,459 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_002.html
+2025-07-28 01:02:06,464 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_003.html
+2025-07-28 01:02:06,469 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\glass objects_001.html
+2025-07-28 01:02:06,473 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_001.html
+2025-07-28 01:02:06,476 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_002.html
+2025-07-28 01:02:06,480 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_003.html
+2025-07-28 01:02:06,486 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Jewelery_001.html
+2025-07-28 01:02:06,490 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\little living things_001.html
+2025-07-28 01:02:06,497 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazine cover designs_001.html
+2025-07-28 01:02:06,501 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazines_001.html
+2025-07-28 01:02:06,505 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Media_001.html
+2025-07-28 01:02:06,512 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_001.html
+2025-07-28 01:02:06,515 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_002.html
+2025-07-28 01:02:06,518 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_003.html
+2025-07-28 01:02:06,523 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_001.html
+2025-07-28 01:02:06,526 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_002.html
+2025-07-28 01:02:06,533 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_003.html
+2025-07-28 01:02:06,536 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_004.html
+2025-07-28 01:02:06,545 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_001.html
+2025-07-28 01:02:06,549 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_002.html
+2025-07-28 01:02:06,553 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_003.html
+2025-07-28 01:02:06,557 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_004.html
+2025-07-28 01:02:06,562 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_005.html
+2025-07-28 01:02:06,566 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_006.html
+2025-07-28 01:02:06,570 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_007.html
+2025-07-28 01:02:06,575 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\portraits_001.html
+2025-07-28 01:02:06,585 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_001.html
+2025-07-28 01:02:06,589 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_002.html
+2025-07-28 01:02:06,595 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_003.html
+2025-07-28 01:02:06,599 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_004.html
+2025-07-28 01:02:06,602 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_005.html
+2025-07-28 01:02:06,604 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_006.html
+2025-07-28 01:02:06,615 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\self care_001.html
+2025-07-28 01:02:06,622 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\think bout it_001.html
+2025-07-28 01:02:06,631 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_001.html
+2025-07-28 01:02:06,634 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_002.html
+2025-07-28 01:02:06,637 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_003.html
+2025-07-28 01:02:06,647 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\vivian james_001.html
+2025-07-28 01:02:06,655 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_001.html
+2025-07-28 01:02:06,660 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_002.html
+2025-07-28 01:02:06,666 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_003.html
+2025-07-28 01:02:06,670 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_004.html
+2025-07-28 01:02:06,673 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_005.html
+2025-07-28 01:02:06,678 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_006.html
+2025-07-28 01:02:06,682 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_007.html
+2025-07-28 01:02:06,687 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_008.html
+2025-07-28 01:02:06,690 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_009.html
+2025-07-28 01:02:06,698 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:02:06,704 - INFO - Finished in 1.44 seconds.
+2025-07-28 01:02:42,574 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:02:55,786 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:03:04,902 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:03:26,165 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:04:08,371 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:04:08,377 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss with 0 images.
+2025-07-28 01:04:08,379 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\2024 trip with 6 images.
+2025-07-28 01:04:08,380 - INFO - Finished with - Board: 2024 trip, page 1 of 1
+2025-07-28 01:04:08,380 - INFO - Board created for: 2024 trip, with 6 images.
+2025-07-28 01:04:08,386 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Academic with 19 images.
+2025-07-28 01:04:08,387 - INFO - Finished with - Board: Academic, page 1 of 1
+2025-07-28 01:04:08,387 - INFO - Board created for: Academic, with 19 images.
+2025-07-28 01:04:08,433 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions with 201 images.
+2025-07-28 01:04:08,435 - INFO - Finished with - Board: anime expressions, page 1 of 5
+2025-07-28 01:04:08,435 - INFO - Finished with - Board: anime expressions, page 2 of 5
+2025-07-28 01:04:08,435 - INFO - Finished with - Board: anime expressions, page 3 of 5
+2025-07-28 01:04:08,435 - INFO - Finished with - Board: anime expressions, page 4 of 5
+2025-07-28 01:04:08,436 - INFO - Finished with - Board: anime expressions, page 5 of 5
+2025-07-28 01:04:08,436 - INFO - Board created for: anime expressions, with 201 images.
+2025-07-28 01:04:08,443 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\frieren with 33 images.
+2025-07-28 01:04:08,444 - INFO - Finished with - Board: anime expressions_~frieren, page 1 of 1
+2025-07-28 01:04:08,445 - INFO - Board created for: anime expressions_~frieren, with 33 images.
+2025-07-28 01:04:08,467 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\maomao with 97 images.
+2025-07-28 01:04:08,468 - INFO - Finished with - Board: anime expressions_~maomao, page 1 of 3
+2025-07-28 01:04:08,468 - INFO - Finished with - Board: anime expressions_~maomao, page 2 of 3
+2025-07-28 01:04:08,468 - INFO - Finished with - Board: anime expressions_~maomao, page 3 of 3
+2025-07-28 01:04:08,468 - INFO - Board created for: anime expressions_~maomao, with 97 images.
+2025-07-28 01:04:08,473 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\memes with 21 images.
+2025-07-28 01:04:08,473 - INFO - Finished with - Board: anime expressions_~memes, page 1 of 1
+2025-07-28 01:04:08,474 - INFO - Board created for: anime expressions_~memes, with 21 images.
+2025-07-28 01:04:08,481 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\Misc with 21 images.
+2025-07-28 01:04:08,482 - INFO - Finished with - Board: anime expressions_~Misc, page 1 of 1
+2025-07-28 01:04:08,482 - INFO - Board created for: anime expressions_~Misc, with 21 images.
+2025-07-28 01:04:08,563 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Artworks with 428 images.
+2025-07-28 01:04:08,564 - INFO - Finished with - Board: Artworks, page 1 of 11
+2025-07-28 01:04:08,564 - INFO - Finished with - Board: Artworks, page 2 of 11
+2025-07-28 01:04:08,564 - INFO - Finished with - Board: Artworks, page 3 of 11
+2025-07-28 01:04:08,565 - INFO - Finished with - Board: Artworks, page 4 of 11
+2025-07-28 01:04:08,565 - INFO - Finished with - Board: Artworks, page 5 of 11
+2025-07-28 01:04:08,565 - INFO - Finished with - Board: Artworks, page 6 of 11
+2025-07-28 01:04:08,565 - INFO - Finished with - Board: Artworks, page 7 of 11
+2025-07-28 01:04:08,566 - INFO - Finished with - Board: Artworks, page 8 of 11
+2025-07-28 01:04:08,566 - INFO - Finished with - Board: Artworks, page 9 of 11
+2025-07-28 01:04:08,567 - INFO - Finished with - Board: Artworks, page 10 of 11
+2025-07-28 01:04:08,567 - INFO - Finished with - Board: Artworks, page 11 of 11
+2025-07-28 01:04:08,567 - INFO - Board created for: Artworks, with 428 images.
+2025-07-28 01:04:08,569 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Author stuff with 7 images.
+2025-07-28 01:04:08,569 - INFO - Finished with - Board: Author stuff, page 1 of 1
+2025-07-28 01:04:08,570 - INFO - Board created for: Author stuff, with 7 images.
+2025-07-28 01:04:08,573 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs with 14 images.
+2025-07-28 01:04:08,573 - INFO - Finished with - Board: Book Recs, page 1 of 1
+2025-07-28 01:04:08,574 - INFO - Board created for: Book Recs, with 14 images.
+2025-07-28 01:04:08,599 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs\to be removed with 103 images.
+2025-07-28 01:04:08,600 - INFO - Finished with - Board: Book Recs_~to be removed, page 1 of 3
+2025-07-28 01:04:08,600 - INFO - Finished with - Board: Book Recs_~to be removed, page 2 of 3
+2025-07-28 01:04:08,600 - INFO - Finished with - Board: Book Recs_~to be removed, page 3 of 3
+2025-07-28 01:04:08,601 - INFO - Board created for: Book Recs_~to be removed, with 103 images.
+2025-07-28 01:04:08,633 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\couple with 151 images.
+2025-07-28 01:04:08,634 - INFO - Finished with - Board: couple, page 1 of 4
+2025-07-28 01:04:08,635 - INFO - Finished with - Board: couple, page 2 of 4
+2025-07-28 01:04:08,635 - INFO - Finished with - Board: couple, page 3 of 4
+2025-07-28 01:04:08,635 - INFO - Finished with - Board: couple, page 4 of 4
+2025-07-28 01:04:08,636 - INFO - Board created for: couple, with 151 images.
+2025-07-28 01:04:08,675 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces with 190 images.
+2025-07-28 01:04:08,676 - INFO - Finished with - Board: Faces, page 1 of 5
+2025-07-28 01:04:08,676 - INFO - Finished with - Board: Faces, page 2 of 5
+2025-07-28 01:04:08,676 - INFO - Finished with - Board: Faces, page 3 of 5
+2025-07-28 01:04:08,677 - INFO - Finished with - Board: Faces, page 4 of 5
+2025-07-28 01:04:08,677 - INFO - Finished with - Board: Faces, page 5 of 5
+2025-07-28 01:04:08,677 - INFO - Board created for: Faces, with 190 images.
+2025-07-28 01:04:08,686 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces\hair with 10 images.
+2025-07-28 01:04:08,687 - INFO - Finished with - Board: Faces_~hair, page 1 of 1
+2025-07-28 01:04:08,688 - INFO - Board created for: Faces_~hair, with 10 images.
+2025-07-28 01:04:08,688 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure Drawing with 0 images.
+2025-07-28 01:04:08,689 - INFO - Board created for: Figure Drawing, with 0 images.
+2025-07-28 01:04:08,705 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure drawing examples with 49 images.
+2025-07-28 01:04:08,706 - INFO - Finished with - Board: Figure drawing examples, page 1 of 2
+2025-07-28 01:04:08,706 - INFO - Finished with - Board: Figure drawing examples, page 2 of 2
+2025-07-28 01:04:08,706 - INFO - Board created for: Figure drawing examples, with 49 images.
+2025-07-28 01:04:08,717 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc with 40 images.
+2025-07-28 01:04:08,717 - INFO - Finished with - Board: Misc, page 1 of 1
+2025-07-28 01:04:08,718 - INFO - Board created for: Misc, with 40 images.
+2025-07-28 01:04:08,721 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Art tut with 15 images.
+2025-07-28 01:04:08,722 - INFO - Finished with - Board: Misc_~Art tut, page 1 of 1
+2025-07-28 01:04:08,723 - INFO - Board created for: Misc_~Art tut, with 15 images.
+2025-07-28 01:04:08,724 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\coffee with 6 images.
+2025-07-28 01:04:08,725 - INFO - Finished with - Board: Misc_~coffee, page 1 of 1
+2025-07-28 01:04:08,725 - INFO - Board created for: Misc_~coffee, with 6 images.
+2025-07-28 01:04:08,727 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Exercise stuff with 3 images.
+2025-07-28 01:04:08,728 - INFO - Finished with - Board: Misc_~Exercise stuff, page 1 of 1
+2025-07-28 01:04:08,728 - INFO - Board created for: Misc_~Exercise stuff, with 3 images.
+2025-07-28 01:04:08,733 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl with 15 images.
+2025-07-28 01:04:08,734 - INFO - Finished with - Board: Particular ppl, page 1 of 1
+2025-07-28 01:04:08,734 - INFO - Board created for: Particular ppl, with 15 images.
+2025-07-28 01:04:08,749 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\froesmari with 48 images.
+2025-07-28 01:04:08,749 - INFO - Finished with - Board: Particular ppl_~froesmari, page 1 of 2
+2025-07-28 01:04:08,750 - INFO - Finished with - Board: Particular ppl_~froesmari, page 2 of 2
+2025-07-28 01:04:08,750 - INFO - Board created for: Particular ppl_~froesmari, with 48 images.
+2025-07-28 01:04:08,766 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\mikkak.x with 58 images.
+2025-07-28 01:04:08,767 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 1 of 2
+2025-07-28 01:04:08,767 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 2 of 2
+2025-07-28 01:04:08,767 - INFO - Board created for: Particular ppl_~mikkak.x, with 58 images.
+2025-07-28 01:04:08,771 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\sabrinaNichole with 17 images.
+2025-07-28 01:04:08,772 - INFO - Finished with - Board: Particular ppl_~sabrinaNichole, page 1 of 1
+2025-07-28 01:04:08,772 - INFO - Board created for: Particular ppl_~sabrinaNichole, with 17 images.
+2025-07-28 01:04:08,776 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\taylorlashae with 18 images.
+2025-07-28 01:04:08,777 - INFO - Finished with - Board: Particular ppl_~taylorlashae, page 1 of 1
+2025-07-28 01:04:08,778 - INFO - Board created for: Particular ppl_~taylorlashae, with 18 images.
+2025-07-28 01:04:08,788 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\yuprntae with 29 images.
+2025-07-28 01:04:08,789 - INFO - Finished with - Board: Particular ppl_~yuprntae, page 1 of 1
+2025-07-28 01:04:08,789 - INFO - Board created for: Particular ppl_~yuprntae, with 29 images.
+2025-07-28 01:04:08,800 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\possibly ai art with 45 images.
+2025-07-28 01:04:08,801 - INFO - Finished with - Board: possibly ai art, page 1 of 2
+2025-07-28 01:04:08,801 - INFO - Finished with - Board: possibly ai art, page 2 of 2
+2025-07-28 01:04:08,801 - INFO - Board created for: possibly ai art, with 45 images.
+2025-07-28 01:04:08,803 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Pretty wallpapers with 4 images.
+2025-07-28 01:04:08,804 - INFO - Finished with - Board: Pretty wallpapers, page 1 of 1
+2025-07-28 01:04:08,804 - INFO - Board created for: Pretty wallpapers, with 4 images.
+2025-07-28 01:04:08,849 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Quotes with 223 images.
+2025-07-28 01:04:08,850 - INFO - Finished with - Board: Quotes, page 1 of 6
+2025-07-28 01:04:08,850 - INFO - Finished with - Board: Quotes, page 2 of 6
+2025-07-28 01:04:08,851 - INFO - Finished with - Board: Quotes, page 3 of 6
+2025-07-28 01:04:08,851 - INFO - Finished with - Board: Quotes, page 4 of 6
+2025-07-28 01:04:08,851 - INFO - Finished with - Board: Quotes, page 5 of 6
+2025-07-28 01:04:08,851 - INFO - Finished with - Board: Quotes, page 6 of 6
+2025-07-28 01:04:08,852 - INFO - Board created for: Quotes, with 223 images.
+2025-07-28 01:04:08,869 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\tattoos with 91 images.
+2025-07-28 01:04:08,870 - INFO - Finished with - Board: tattoos, page 1 of 3
+2025-07-28 01:04:08,870 - INFO - Finished with - Board: tattoos, page 2 of 3
+2025-07-28 01:04:08,871 - INFO - Finished with - Board: tattoos, page 3 of 3
+2025-07-28 01:04:08,871 - INFO - Board created for: tattoos, with 91 images.
+2025-07-28 01:04:08,872 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink with 0 images.
+2025-07-28 01:04:08,896 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\anatomy (morphology) with 107 images.
+2025-07-28 01:04:08,897 - INFO - Finished with - Board: anatomy (morphology), page 1 of 3
+2025-07-28 01:04:08,897 - INFO - Finished with - Board: anatomy (morphology), page 2 of 3
+2025-07-28 01:04:08,898 - INFO - Finished with - Board: anatomy (morphology), page 3 of 3
+2025-07-28 01:04:08,898 - INFO - Board created for: anatomy (morphology), with 107 images.
+2025-07-28 01:04:08,898 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\artworks with 0 images.
+2025-07-28 01:04:08,899 - INFO - Board created for: artworks, with 0 images.
+2025-07-28 01:04:08,901 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\backgrounds with 8 images.
+2025-07-28 01:04:08,902 - INFO - Finished with - Board: backgrounds, page 1 of 1
+2025-07-28 01:04:08,902 - INFO - Board created for: backgrounds, with 8 images.
+2025-07-28 01:04:08,932 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Faces drawing inspo with 123 images.
+2025-07-28 01:04:08,933 - INFO - Finished with - Board: Faces drawing inspo, page 1 of 3
+2025-07-28 01:04:08,933 - INFO - Finished with - Board: Faces drawing inspo, page 2 of 3
+2025-07-28 01:04:08,933 - INFO - Finished with - Board: Faces drawing inspo, page 3 of 3
+2025-07-28 01:04:08,933 - INFO - Board created for: Faces drawing inspo, with 123 images.
+2025-07-28 01:04:08,935 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\glass objects with 10 images.
+2025-07-28 01:04:08,936 - INFO - Finished with - Board: glass objects, page 1 of 1
+2025-07-28 01:04:08,936 - INFO - Board created for: glass objects, with 10 images.
+2025-07-28 01:04:08,955 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Info with 85 images.
+2025-07-28 01:04:08,956 - INFO - Finished with - Board: Info, page 1 of 3
+2025-07-28 01:04:08,956 - INFO - Finished with - Board: Info, page 2 of 3
+2025-07-28 01:04:08,957 - INFO - Finished with - Board: Info, page 3 of 3
+2025-07-28 01:04:08,957 - INFO - Board created for: Info, with 85 images.
+2025-07-28 01:04:08,965 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Jewelery with 33 images.
+2025-07-28 01:04:08,966 - INFO - Finished with - Board: Jewelery, page 1 of 1
+2025-07-28 01:04:08,966 - INFO - Board created for: Jewelery, with 33 images.
+2025-07-28 01:04:08,973 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\little living things with 33 images.
+2025-07-28 01:04:08,974 - INFO - Finished with - Board: little living things, page 1 of 1
+2025-07-28 01:04:08,974 - INFO - Board created for: little living things, with 33 images.
+2025-07-28 01:04:08,984 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazine cover designs with 35 images.
+2025-07-28 01:04:08,985 - INFO - Finished with - Board: magazine cover designs, page 1 of 1
+2025-07-28 01:04:08,985 - INFO - Board created for: magazine cover designs, with 35 images.
+2025-07-28 01:04:08,993 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazines with 34 images.
+2025-07-28 01:04:08,993 - INFO - Finished with - Board: magazines, page 1 of 1
+2025-07-28 01:04:08,994 - INFO - Board created for: magazines, with 34 images.
+2025-07-28 01:04:09,001 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Media with 28 images.
+2025-07-28 01:04:09,002 - INFO - Finished with - Board: Media, page 1 of 1
+2025-07-28 01:04:09,002 - INFO - Board created for: Media, with 28 images.
+2025-07-28 01:04:09,026 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\memes with 112 images.
+2025-07-28 01:04:09,027 - INFO - Finished with - Board: memes, page 1 of 3
+2025-07-28 01:04:09,028 - INFO - Finished with - Board: memes, page 2 of 3
+2025-07-28 01:04:09,028 - INFO - Finished with - Board: memes, page 3 of 3
+2025-07-28 01:04:09,029 - INFO - Board created for: memes, with 112 images.
+2025-07-28 01:04:09,058 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\normal poses with 133 images.
+2025-07-28 01:04:09,059 - INFO - Finished with - Board: normal poses, page 1 of 4
+2025-07-28 01:04:09,059 - INFO - Finished with - Board: normal poses, page 2 of 4
+2025-07-28 01:04:09,060 - INFO - Finished with - Board: normal poses, page 3 of 4
+2025-07-28 01:04:09,060 - INFO - Finished with - Board: normal poses, page 4 of 4
+2025-07-28 01:04:09,060 - INFO - Board created for: normal poses, with 133 images.
+2025-07-28 01:04:09,119 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\outfits with 274 images.
+2025-07-28 01:04:09,120 - INFO - Finished with - Board: outfits, page 1 of 7
+2025-07-28 01:04:09,120 - INFO - Finished with - Board: outfits, page 2 of 7
+2025-07-28 01:04:09,121 - INFO - Finished with - Board: outfits, page 3 of 7
+2025-07-28 01:04:09,121 - INFO - Finished with - Board: outfits, page 4 of 7
+2025-07-28 01:04:09,122 - INFO - Finished with - Board: outfits, page 5 of 7
+2025-07-28 01:04:09,122 - INFO - Finished with - Board: outfits, page 6 of 7
+2025-07-28 01:04:09,122 - INFO - Finished with - Board: outfits, page 7 of 7
+2025-07-28 01:04:09,122 - INFO - Board created for: outfits, with 274 images.
+2025-07-28 01:04:09,127 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\portraits with 24 images.
+2025-07-28 01:04:09,128 - INFO - Finished with - Board: portraits, page 1 of 1
+2025-07-28 01:04:09,128 - INFO - Board created for: portraits, with 24 images.
+2025-07-28 01:04:09,177 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Poses to draw with 227 images.
+2025-07-28 01:04:09,179 - INFO - Finished with - Board: Poses to draw, page 1 of 6
+2025-07-28 01:04:09,179 - INFO - Finished with - Board: Poses to draw, page 2 of 6
+2025-07-28 01:04:09,179 - INFO - Finished with - Board: Poses to draw, page 3 of 6
+2025-07-28 01:04:09,180 - INFO - Finished with - Board: Poses to draw, page 4 of 6
+2025-07-28 01:04:09,180 - INFO - Finished with - Board: Poses to draw, page 5 of 6
+2025-07-28 01:04:09,180 - INFO - Finished with - Board: Poses to draw, page 6 of 6
+2025-07-28 01:04:09,180 - INFO - Board created for: Poses to draw, with 227 images.
+2025-07-28 01:04:09,186 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\self care with 29 images.
+2025-07-28 01:04:09,187 - INFO - Finished with - Board: self care, page 1 of 1
+2025-07-28 01:04:09,187 - INFO - Board created for: self care, with 29 images.
+2025-07-28 01:04:09,198 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\think bout it with 36 images.
+2025-07-28 01:04:09,199 - INFO - Finished with - Board: think bout it, page 1 of 1
+2025-07-28 01:04:09,199 - INFO - Board created for: think bout it, with 36 images.
+2025-07-28 01:04:09,222 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\uncommon poses with 108 images.
+2025-07-28 01:04:09,223 - INFO - Finished with - Board: uncommon poses, page 1 of 3
+2025-07-28 01:04:09,223 - INFO - Finished with - Board: uncommon poses, page 2 of 3
+2025-07-28 01:04:09,224 - INFO - Finished with - Board: uncommon poses, page 3 of 3
+2025-07-28 01:04:09,224 - INFO - Board created for: uncommon poses, with 108 images.
+2025-07-28 01:04:09,226 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\vivian james with 8 images.
+2025-07-28 01:04:09,227 - INFO - Finished with - Board: vivian james, page 1 of 1
+2025-07-28 01:04:09,227 - INFO - Board created for: vivian james, with 8 images.
+2025-07-28 01:04:09,307 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Writing and Drawing Guides with 378 images.
+2025-07-28 01:04:09,308 - INFO - Finished with - Board: Writing and Drawing Guides, page 1 of 9
+2025-07-28 01:04:09,308 - INFO - Finished with - Board: Writing and Drawing Guides, page 2 of 9
+2025-07-28 01:04:09,308 - INFO - Finished with - Board: Writing and Drawing Guides, page 3 of 9
+2025-07-28 01:04:09,309 - INFO - Finished with - Board: Writing and Drawing Guides, page 4 of 9
+2025-07-28 01:04:09,310 - INFO - Finished with - Board: Writing and Drawing Guides, page 5 of 9
+2025-07-28 01:04:09,310 - INFO - Finished with - Board: Writing and Drawing Guides, page 6 of 9
+2025-07-28 01:04:09,310 - INFO - Finished with - Board: Writing and Drawing Guides, page 7 of 9
+2025-07-28 01:04:09,310 - INFO - Finished with - Board: Writing and Drawing Guides, page 8 of 9
+2025-07-28 01:04:09,310 - INFO - Finished with - Board: Writing and Drawing Guides, page 9 of 9
+2025-07-28 01:04:09,310 - INFO - Board created for: Writing and Drawing Guides, with 378 images.
+2025-07-28 01:04:09,316 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\2024 trip_001.html
+2025-07-28 01:04:09,325 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Academic_001.html
+2025-07-28 01:04:09,370 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_001.html
+2025-07-28 01:04:09,394 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_002.html
+2025-07-28 01:04:09,421 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_003.html
+2025-07-28 01:04:09,448 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_004.html
+2025-07-28 01:04:09,486 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_005.html
+2025-07-28 01:04:09,546 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~frieren_001.html
+2025-07-28 01:04:09,570 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_001.html
+2025-07-28 01:04:09,599 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_002.html
+2025-07-28 01:04:09,602 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_003.html
+2025-07-28 01:04:09,608 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~memes_001.html
+2025-07-28 01:04:09,617 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~Misc_001.html
+2025-07-28 01:04:09,626 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_001.html
+2025-07-28 01:04:09,652 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_002.html
+2025-07-28 01:04:09,662 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_003.html
+2025-07-28 01:04:09,670 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_004.html
+2025-07-28 01:04:09,681 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_005.html
+2025-07-28 01:04:09,689 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_006.html
+2025-07-28 01:04:09,696 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_007.html
+2025-07-28 01:04:09,700 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_008.html
+2025-07-28 01:04:09,702 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_009.html
+2025-07-28 01:04:09,705 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_010.html
+2025-07-28 01:04:09,707 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_011.html
+2025-07-28 01:04:09,716 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Author stuff_001.html
+2025-07-28 01:04:09,720 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_001.html
+2025-07-28 01:04:09,727 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_001.html
+2025-07-28 01:04:09,731 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_002.html
+2025-07-28 01:04:09,733 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_003.html
+2025-07-28 01:04:09,737 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_001.html
+2025-07-28 01:04:09,741 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_002.html
+2025-07-28 01:04:09,747 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_003.html
+2025-07-28 01:04:09,749 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_004.html
+2025-07-28 01:04:09,753 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_001.html
+2025-07-28 01:04:09,756 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_002.html
+2025-07-28 01:04:09,758 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_003.html
+2025-07-28 01:04:09,764 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_004.html
+2025-07-28 01:04:09,766 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_005.html
+2025-07-28 01:04:09,771 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_~hair_001.html
+2025-07-28 01:04:09,781 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_001.html
+2025-07-28 01:04:09,783 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_002.html
+2025-07-28 01:04:09,788 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_001.html
+2025-07-28 01:04:09,795 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Art tut_001.html
+2025-07-28 01:04:09,799 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~coffee_001.html
+2025-07-28 01:04:09,805 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Exercise stuff_001.html
+2025-07-28 01:04:09,810 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_001.html
+2025-07-28 01:04:09,816 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_001.html
+2025-07-28 01:04:09,819 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_002.html
+2025-07-28 01:04:09,824 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_001.html
+2025-07-28 01:04:09,829 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_002.html
+2025-07-28 01:04:09,834 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~sabrinaNichole_001.html
+2025-07-28 01:04:09,839 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~taylorlashae_001.html
+2025-07-28 01:04:09,844 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~yuprntae_001.html
+2025-07-28 01:04:09,851 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_001.html
+2025-07-28 01:04:09,854 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_002.html
+2025-07-28 01:04:09,858 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Pretty wallpapers_001.html
+2025-07-28 01:04:09,866 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_001.html
+2025-07-28 01:04:09,869 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_002.html
+2025-07-28 01:04:09,871 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_003.html
+2025-07-28 01:04:09,874 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_004.html
+2025-07-28 01:04:09,880 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_005.html
+2025-07-28 01:04:09,882 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_006.html
+2025-07-28 01:04:09,887 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_001.html
+2025-07-28 01:04:09,890 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_002.html
+2025-07-28 01:04:09,894 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_003.html
+2025-07-28 01:04:09,902 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_001.html
+2025-07-28 01:04:09,904 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_002.html
+2025-07-28 01:04:09,907 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_003.html
+2025-07-28 01:04:09,917 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\backgrounds_001.html
+2025-07-28 01:04:09,923 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_001.html
+2025-07-28 01:04:09,927 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_002.html
+2025-07-28 01:04:09,932 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_003.html
+2025-07-28 01:04:09,937 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\glass objects_001.html
+2025-07-28 01:04:09,945 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_001.html
+2025-07-28 01:04:09,948 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_002.html
+2025-07-28 01:04:09,951 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_003.html
+2025-07-28 01:04:09,955 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Jewelery_001.html
+2025-07-28 01:04:09,963 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\little living things_001.html
+2025-07-28 01:04:09,967 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazine cover designs_001.html
+2025-07-28 01:04:09,972 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazines_001.html
+2025-07-28 01:04:09,981 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Media_001.html
+2025-07-28 01:04:09,985 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_001.html
+2025-07-28 01:04:09,987 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_002.html
+2025-07-28 01:04:09,990 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_003.html
+2025-07-28 01:04:09,998 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_001.html
+2025-07-28 01:04:10,001 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_002.html
+2025-07-28 01:04:10,003 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_003.html
+2025-07-28 01:04:10,005 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_004.html
+2025-07-28 01:04:10,014 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_001.html
+2025-07-28 01:04:10,016 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_002.html
+2025-07-28 01:04:10,019 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_003.html
+2025-07-28 01:04:10,021 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_004.html
+2025-07-28 01:04:10,024 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_005.html
+2025-07-28 01:04:10,029 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_006.html
+2025-07-28 01:04:10,032 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_007.html
+2025-07-28 01:04:10,037 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\portraits_001.html
+2025-07-28 01:04:10,045 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_001.html
+2025-07-28 01:04:10,049 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_002.html
+2025-07-28 01:04:10,051 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_003.html
+2025-07-28 01:04:10,053 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_004.html
+2025-07-28 01:04:10,057 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_005.html
+2025-07-28 01:04:10,059 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_006.html
+2025-07-28 01:04:10,066 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\self care_001.html
+2025-07-28 01:04:10,070 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\think bout it_001.html
+2025-07-28 01:04:10,074 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_001.html
+2025-07-28 01:04:10,080 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_002.html
+2025-07-28 01:04:10,082 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_003.html
+2025-07-28 01:04:10,086 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\vivian james_001.html
+2025-07-28 01:04:10,090 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_001.html
+2025-07-28 01:04:10,096 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_002.html
+2025-07-28 01:04:10,098 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_003.html
+2025-07-28 01:04:10,101 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_004.html
+2025-07-28 01:04:10,103 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_005.html
+2025-07-28 01:04:10,106 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_006.html
+2025-07-28 01:04:10,111 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_007.html
+2025-07-28 01:04:10,115 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_008.html
+2025-07-28 01:04:10,118 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_009.html
+2025-07-28 01:04:10,123 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:04:10,133 - INFO - Finished in 1.76 seconds.
+2025-07-28 01:10:34,211 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:10:34,218 - INFO - Finished with - Board: exampleImageLinks, page 1 of 2
+2025-07-28 01:10:34,218 - INFO - Finished with - Board: exampleImageLinks, page 2 of 2
+2025-07-28 01:10:34,220 - INFO - Finished with - Board: bartolomeobari, page 1 of 8
+2025-07-28 01:10:34,220 - INFO - Finished with - Board: bartolomeobari, page 2 of 8
+2025-07-28 01:10:34,220 - INFO - Finished with - Board: bartolomeobari, page 3 of 8
+2025-07-28 01:10:34,220 - INFO - Finished with - Board: bartolomeobari, page 4 of 8
+2025-07-28 01:10:34,220 - INFO - Finished with - Board: bartolomeobari, page 5 of 8
+2025-07-28 01:10:34,221 - INFO - Finished with - Board: bartolomeobari, page 6 of 8
+2025-07-28 01:10:34,221 - INFO - Finished with - Board: bartolomeobari, page 7 of 8
+2025-07-28 01:10:34,221 - INFO - Finished with - Board: bartolomeobari, page 8 of 8
+2025-07-28 01:10:34,222 - INFO - Finished with - Board: megumin, page 1 of 1
+2025-07-28 01:10:34,227 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\exampleImageLinks_001.html
+2025-07-28 01:10:34,231 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\exampleImageLinks_002.html
+2025-07-28 01:10:34,234 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_001.html
+2025-07-28 01:10:34,236 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_002.html
+2025-07-28 01:10:34,240 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_003.html
+2025-07-28 01:10:34,245 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_004.html
+2025-07-28 01:10:34,248 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_005.html
+2025-07-28 01:10:34,251 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_006.html
+2025-07-28 01:10:34,254 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_007.html
+2025-07-28 01:10:34,257 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\bartolomeobari_008.html
+2025-07-28 01:10:34,261 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\megumin_001.html
+2025-07-28 01:10:34,265 - INFO - index file created, location is - C:/Users/ggggg/Desktop\imglists_v2\index.html
+2025-07-28 01:10:34,265 - INFO - creating css file at C:/Users/ggggg/Desktop\imglists_v2
+2025-07-28 01:10:34,269 - INFO - Finished in 0.06 seconds.
+2025-07-28 01:10:44,597 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:10:44,603 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss with 0 images.
+2025-07-28 01:10:44,605 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\2024 trip with 6 images.
+2025-07-28 01:10:44,606 - INFO - Finished with - Board: 2024 trip, page 1 of 1
+2025-07-28 01:10:44,606 - INFO - Board created for: 2024 trip, with 6 images.
+2025-07-28 01:10:44,612 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Academic with 19 images.
+2025-07-28 01:10:44,613 - INFO - Finished with - Board: Academic, page 1 of 1
+2025-07-28 01:10:44,614 - INFO - Board created for: Academic, with 19 images.
+2025-07-28 01:10:44,660 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions with 201 images.
+2025-07-28 01:10:44,661 - INFO - Finished with - Board: anime expressions, page 1 of 5
+2025-07-28 01:10:44,662 - INFO - Finished with - Board: anime expressions, page 2 of 5
+2025-07-28 01:10:44,662 - INFO - Finished with - Board: anime expressions, page 3 of 5
+2025-07-28 01:10:44,662 - INFO - Finished with - Board: anime expressions, page 4 of 5
+2025-07-28 01:10:44,663 - INFO - Finished with - Board: anime expressions, page 5 of 5
+2025-07-28 01:10:44,663 - INFO - Board created for: anime expressions, with 201 images.
+2025-07-28 01:10:44,673 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\frieren with 33 images.
+2025-07-28 01:10:44,674 - INFO - Finished with - Board: anime expressions_~frieren, page 1 of 1
+2025-07-28 01:10:44,674 - INFO - Board created for: anime expressions_~frieren, with 33 images.
+2025-07-28 01:10:44,698 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\maomao with 97 images.
+2025-07-28 01:10:44,699 - INFO - Finished with - Board: anime expressions_~maomao, page 1 of 3
+2025-07-28 01:10:44,700 - INFO - Finished with - Board: anime expressions_~maomao, page 2 of 3
+2025-07-28 01:10:44,700 - INFO - Finished with - Board: anime expressions_~maomao, page 3 of 3
+2025-07-28 01:10:44,700 - INFO - Board created for: anime expressions_~maomao, with 97 images.
+2025-07-28 01:10:44,708 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\memes with 21 images.
+2025-07-28 01:10:44,709 - INFO - Finished with - Board: anime expressions_~memes, page 1 of 1
+2025-07-28 01:10:44,709 - INFO - Board created for: anime expressions_~memes, with 21 images.
+2025-07-28 01:10:44,714 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\anime expressions\Misc with 21 images.
+2025-07-28 01:10:44,715 - INFO - Finished with - Board: anime expressions_~Misc, page 1 of 1
+2025-07-28 01:10:44,715 - INFO - Board created for: anime expressions_~Misc, with 21 images.
+2025-07-28 01:10:44,801 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Artworks with 428 images.
+2025-07-28 01:10:44,802 - INFO - Finished with - Board: Artworks, page 1 of 11
+2025-07-28 01:10:44,802 - INFO - Finished with - Board: Artworks, page 2 of 11
+2025-07-28 01:10:44,802 - INFO - Finished with - Board: Artworks, page 3 of 11
+2025-07-28 01:10:44,802 - INFO - Finished with - Board: Artworks, page 4 of 11
+2025-07-28 01:10:44,803 - INFO - Finished with - Board: Artworks, page 5 of 11
+2025-07-28 01:10:44,803 - INFO - Finished with - Board: Artworks, page 6 of 11
+2025-07-28 01:10:44,803 - INFO - Finished with - Board: Artworks, page 7 of 11
+2025-07-28 01:10:44,803 - INFO - Finished with - Board: Artworks, page 8 of 11
+2025-07-28 01:10:44,804 - INFO - Finished with - Board: Artworks, page 9 of 11
+2025-07-28 01:10:44,804 - INFO - Finished with - Board: Artworks, page 10 of 11
+2025-07-28 01:10:44,804 - INFO - Finished with - Board: Artworks, page 11 of 11
+2025-07-28 01:10:44,804 - INFO - Board created for: Artworks, with 428 images.
+2025-07-28 01:10:44,806 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Author stuff with 7 images.
+2025-07-28 01:10:44,807 - INFO - Finished with - Board: Author stuff, page 1 of 1
+2025-07-28 01:10:44,807 - INFO - Board created for: Author stuff, with 7 images.
+2025-07-28 01:10:44,811 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs with 14 images.
+2025-07-28 01:10:44,812 - INFO - Finished with - Board: Book Recs, page 1 of 1
+2025-07-28 01:10:44,812 - INFO - Board created for: Book Recs, with 14 images.
+2025-07-28 01:10:44,841 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Book Recs\to be removed with 103 images.
+2025-07-28 01:10:44,842 - INFO - Finished with - Board: Book Recs_~to be removed, page 1 of 3
+2025-07-28 01:10:44,842 - INFO - Finished with - Board: Book Recs_~to be removed, page 2 of 3
+2025-07-28 01:10:44,842 - INFO - Finished with - Board: Book Recs_~to be removed, page 3 of 3
+2025-07-28 01:10:44,842 - INFO - Board created for: Book Recs_~to be removed, with 103 images.
+2025-07-28 01:10:44,877 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\couple with 151 images.
+2025-07-28 01:10:44,878 - INFO - Finished with - Board: couple, page 1 of 4
+2025-07-28 01:10:44,878 - INFO - Finished with - Board: couple, page 2 of 4
+2025-07-28 01:10:44,878 - INFO - Finished with - Board: couple, page 3 of 4
+2025-07-28 01:10:44,879 - INFO - Finished with - Board: couple, page 4 of 4
+2025-07-28 01:10:44,879 - INFO - Board created for: couple, with 151 images.
+2025-07-28 01:10:44,923 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces with 190 images.
+2025-07-28 01:10:44,924 - INFO - Finished with - Board: Faces, page 1 of 5
+2025-07-28 01:10:44,924 - INFO - Finished with - Board: Faces, page 2 of 5
+2025-07-28 01:10:44,925 - INFO - Finished with - Board: Faces, page 3 of 5
+2025-07-28 01:10:44,925 - INFO - Finished with - Board: Faces, page 4 of 5
+2025-07-28 01:10:44,925 - INFO - Finished with - Board: Faces, page 5 of 5
+2025-07-28 01:10:44,925 - INFO - Board created for: Faces, with 190 images.
+2025-07-28 01:10:44,928 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Faces\hair with 10 images.
+2025-07-28 01:10:44,929 - INFO - Finished with - Board: Faces_~hair, page 1 of 1
+2025-07-28 01:10:44,929 - INFO - Board created for: Faces_~hair, with 10 images.
+2025-07-28 01:10:44,929 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure Drawing with 0 images.
+2025-07-28 01:10:44,930 - INFO - Board created for: Figure Drawing, with 0 images.
+2025-07-28 01:10:44,944 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Figure drawing examples with 49 images.
+2025-07-28 01:10:44,945 - INFO - Finished with - Board: Figure drawing examples, page 1 of 2
+2025-07-28 01:10:44,945 - INFO - Finished with - Board: Figure drawing examples, page 2 of 2
+2025-07-28 01:10:44,946 - INFO - Board created for: Figure drawing examples, with 49 images.
+2025-07-28 01:10:44,957 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc with 40 images.
+2025-07-28 01:10:44,958 - INFO - Finished with - Board: Misc, page 1 of 1
+2025-07-28 01:10:44,958 - INFO - Board created for: Misc, with 40 images.
+2025-07-28 01:10:44,962 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Art tut with 15 images.
+2025-07-28 01:10:44,963 - INFO - Finished with - Board: Misc_~Art tut, page 1 of 1
+2025-07-28 01:10:44,963 - INFO - Board created for: Misc_~Art tut, with 15 images.
+2025-07-28 01:10:44,965 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\coffee with 6 images.
+2025-07-28 01:10:44,966 - INFO - Finished with - Board: Misc_~coffee, page 1 of 1
+2025-07-28 01:10:44,966 - INFO - Board created for: Misc_~coffee, with 6 images.
+2025-07-28 01:10:44,967 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Misc\Exercise stuff with 3 images.
+2025-07-28 01:10:44,968 - INFO - Finished with - Board: Misc_~Exercise stuff, page 1 of 1
+2025-07-28 01:10:44,968 - INFO - Board created for: Misc_~Exercise stuff, with 3 images.
+2025-07-28 01:10:44,975 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl with 15 images.
+2025-07-28 01:10:44,976 - INFO - Finished with - Board: Particular ppl, page 1 of 1
+2025-07-28 01:10:44,976 - INFO - Board created for: Particular ppl, with 15 images.
+2025-07-28 01:10:44,991 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\froesmari with 48 images.
+2025-07-28 01:10:44,993 - INFO - Finished with - Board: Particular ppl_~froesmari, page 1 of 2
+2025-07-28 01:10:44,993 - INFO - Finished with - Board: Particular ppl_~froesmari, page 2 of 2
+2025-07-28 01:10:44,993 - INFO - Board created for: Particular ppl_~froesmari, with 48 images.
+2025-07-28 01:10:45,010 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\mikkak.x with 58 images.
+2025-07-28 01:10:45,011 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 1 of 2
+2025-07-28 01:10:45,011 - INFO - Finished with - Board: Particular ppl_~mikkak.x, page 2 of 2
+2025-07-28 01:10:45,011 - INFO - Board created for: Particular ppl_~mikkak.x, with 58 images.
+2025-07-28 01:10:45,015 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\sabrinaNichole with 17 images.
+2025-07-28 01:10:45,016 - INFO - Finished with - Board: Particular ppl_~sabrinaNichole, page 1 of 1
+2025-07-28 01:10:45,016 - INFO - Board created for: Particular ppl_~sabrinaNichole, with 17 images.
+2025-07-28 01:10:45,025 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\taylorlashae with 18 images.
+2025-07-28 01:10:45,026 - INFO - Finished with - Board: Particular ppl_~taylorlashae, page 1 of 1
+2025-07-28 01:10:45,026 - INFO - Board created for: Particular ppl_~taylorlashae, with 18 images.
+2025-07-28 01:10:45,034 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Particular ppl\yuprntae with 29 images.
+2025-07-28 01:10:45,035 - INFO - Finished with - Board: Particular ppl_~yuprntae, page 1 of 1
+2025-07-28 01:10:45,035 - INFO - Board created for: Particular ppl_~yuprntae, with 29 images.
+2025-07-28 01:10:45,046 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\possibly ai art with 45 images.
+2025-07-28 01:10:45,047 - INFO - Finished with - Board: possibly ai art, page 1 of 2
+2025-07-28 01:10:45,047 - INFO - Finished with - Board: possibly ai art, page 2 of 2
+2025-07-28 01:10:45,047 - INFO - Board created for: possibly ai art, with 45 images.
+2025-07-28 01:10:45,049 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Pretty wallpapers with 4 images.
+2025-07-28 01:10:45,050 - INFO - Finished with - Board: Pretty wallpapers, page 1 of 1
+2025-07-28 01:10:45,050 - INFO - Board created for: Pretty wallpapers, with 4 images.
+2025-07-28 01:10:45,099 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\Quotes with 223 images.
+2025-07-28 01:10:45,101 - INFO - Finished with - Board: Quotes, page 1 of 6
+2025-07-28 01:10:45,101 - INFO - Finished with - Board: Quotes, page 2 of 6
+2025-07-28 01:10:45,101 - INFO - Finished with - Board: Quotes, page 3 of 6
+2025-07-28 01:10:45,101 - INFO - Finished with - Board: Quotes, page 4 of 6
+2025-07-28 01:10:45,101 - INFO - Finished with - Board: Quotes, page 5 of 6
+2025-07-28 01:10:45,102 - INFO - Finished with - Board: Quotes, page 6 of 6
+2025-07-28 01:10:45,102 - INFO - Board created for: Quotes, with 223 images.
+2025-07-28 01:10:45,123 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\confused_sciss\tattoos with 91 images.
+2025-07-28 01:10:45,124 - INFO - Finished with - Board: tattoos, page 1 of 3
+2025-07-28 01:10:45,124 - INFO - Finished with - Board: tattoos, page 2 of 3
+2025-07-28 01:10:45,124 - INFO - Finished with - Board: tattoos, page 3 of 3
+2025-07-28 01:10:45,124 - INFO - Board created for: tattoos, with 91 images.
+2025-07-28 01:10:45,125 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink with 0 images.
+2025-07-28 01:10:45,150 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\anatomy (morphology) with 107 images.
+2025-07-28 01:10:45,150 - INFO - Finished with - Board: anatomy (morphology), page 1 of 3
+2025-07-28 01:10:45,150 - INFO - Finished with - Board: anatomy (morphology), page 2 of 3
+2025-07-28 01:10:45,151 - INFO - Finished with - Board: anatomy (morphology), page 3 of 3
+2025-07-28 01:10:45,151 - INFO - Board created for: anatomy (morphology), with 107 images.
+2025-07-28 01:10:45,151 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\artworks with 0 images.
+2025-07-28 01:10:45,153 - INFO - Board created for: artworks, with 0 images.
+2025-07-28 01:10:45,156 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\backgrounds with 8 images.
+2025-07-28 01:10:45,157 - INFO - Finished with - Board: backgrounds, page 1 of 1
+2025-07-28 01:10:45,157 - INFO - Board created for: backgrounds, with 8 images.
+2025-07-28 01:10:45,187 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Faces drawing inspo with 123 images.
+2025-07-28 01:10:45,189 - INFO - Finished with - Board: Faces drawing inspo, page 1 of 3
+2025-07-28 01:10:45,189 - INFO - Finished with - Board: Faces drawing inspo, page 2 of 3
+2025-07-28 01:10:45,189 - INFO - Finished with - Board: Faces drawing inspo, page 3 of 3
+2025-07-28 01:10:45,189 - INFO - Board created for: Faces drawing inspo, with 123 images.
+2025-07-28 01:10:45,192 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\glass objects with 10 images.
+2025-07-28 01:10:45,194 - INFO - Finished with - Board: glass objects, page 1 of 1
+2025-07-28 01:10:45,194 - INFO - Board created for: glass objects, with 10 images.
+2025-07-28 01:10:45,213 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Info with 85 images.
+2025-07-28 01:10:45,214 - INFO - Finished with - Board: Info, page 1 of 3
+2025-07-28 01:10:45,214 - INFO - Finished with - Board: Info, page 2 of 3
+2025-07-28 01:10:45,214 - INFO - Finished with - Board: Info, page 3 of 3
+2025-07-28 01:10:45,214 - INFO - Board created for: Info, with 85 images.
+2025-07-28 01:10:45,223 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Jewelery with 33 images.
+2025-07-28 01:10:45,224 - INFO - Finished with - Board: Jewelery, page 1 of 1
+2025-07-28 01:10:45,224 - INFO - Board created for: Jewelery, with 33 images.
+2025-07-28 01:10:45,232 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\little living things with 33 images.
+2025-07-28 01:10:45,233 - INFO - Finished with - Board: little living things, page 1 of 1
+2025-07-28 01:10:45,233 - INFO - Board created for: little living things, with 33 images.
+2025-07-28 01:10:45,245 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazine cover designs with 35 images.
+2025-07-28 01:10:45,246 - INFO - Finished with - Board: magazine cover designs, page 1 of 1
+2025-07-28 01:10:45,246 - INFO - Board created for: magazine cover designs, with 35 images.
+2025-07-28 01:10:45,256 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\magazines with 34 images.
+2025-07-28 01:10:45,258 - INFO - Finished with - Board: magazines, page 1 of 1
+2025-07-28 01:10:45,258 - INFO - Board created for: magazines, with 34 images.
+2025-07-28 01:10:45,264 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Media with 28 images.
+2025-07-28 01:10:45,265 - INFO - Finished with - Board: Media, page 1 of 1
+2025-07-28 01:10:45,265 - INFO - Board created for: Media, with 28 images.
+2025-07-28 01:10:45,295 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\memes with 112 images.
+2025-07-28 01:10:45,295 - INFO - Finished with - Board: memes, page 1 of 3
+2025-07-28 01:10:45,295 - INFO - Finished with - Board: memes, page 2 of 3
+2025-07-28 01:10:45,295 - INFO - Finished with - Board: memes, page 3 of 3
+2025-07-28 01:10:45,295 - INFO - Board created for: memes, with 112 images.
+2025-07-28 01:10:45,328 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\normal poses with 133 images.
+2025-07-28 01:10:45,329 - INFO - Finished with - Board: normal poses, page 1 of 4
+2025-07-28 01:10:45,329 - INFO - Finished with - Board: normal poses, page 2 of 4
+2025-07-28 01:10:45,329 - INFO - Finished with - Board: normal poses, page 3 of 4
+2025-07-28 01:10:45,330 - INFO - Finished with - Board: normal poses, page 4 of 4
+2025-07-28 01:10:45,330 - INFO - Board created for: normal poses, with 133 images.
+2025-07-28 01:10:45,388 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\outfits with 274 images.
+2025-07-28 01:10:45,389 - INFO - Finished with - Board: outfits, page 1 of 7
+2025-07-28 01:10:45,389 - INFO - Finished with - Board: outfits, page 2 of 7
+2025-07-28 01:10:45,390 - INFO - Finished with - Board: outfits, page 3 of 7
+2025-07-28 01:10:45,390 - INFO - Finished with - Board: outfits, page 4 of 7
+2025-07-28 01:10:45,390 - INFO - Finished with - Board: outfits, page 5 of 7
+2025-07-28 01:10:45,390 - INFO - Finished with - Board: outfits, page 6 of 7
+2025-07-28 01:10:45,390 - INFO - Finished with - Board: outfits, page 7 of 7
+2025-07-28 01:10:45,392 - INFO - Board created for: outfits, with 274 images.
+2025-07-28 01:10:45,396 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\portraits with 24 images.
+2025-07-28 01:10:45,397 - INFO - Finished with - Board: portraits, page 1 of 1
+2025-07-28 01:10:45,397 - INFO - Board created for: portraits, with 24 images.
+2025-07-28 01:10:45,449 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Poses to draw with 227 images.
+2025-07-28 01:10:45,450 - INFO - Finished with - Board: Poses to draw, page 1 of 6
+2025-07-28 01:10:45,451 - INFO - Finished with - Board: Poses to draw, page 2 of 6
+2025-07-28 01:10:45,451 - INFO - Finished with - Board: Poses to draw, page 3 of 6
+2025-07-28 01:10:45,452 - INFO - Finished with - Board: Poses to draw, page 4 of 6
+2025-07-28 01:10:45,452 - INFO - Finished with - Board: Poses to draw, page 5 of 6
+2025-07-28 01:10:45,452 - INFO - Finished with - Board: Poses to draw, page 6 of 6
+2025-07-28 01:10:45,453 - INFO - Board created for: Poses to draw, with 227 images.
+2025-07-28 01:10:45,461 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\self care with 29 images.
+2025-07-28 01:10:45,461 - INFO - Finished with - Board: self care, page 1 of 1
+2025-07-28 01:10:45,461 - INFO - Board created for: self care, with 29 images.
+2025-07-28 01:10:45,470 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\think bout it with 36 images.
+2025-07-28 01:10:45,471 - INFO - Finished with - Board: think bout it, page 1 of 1
+2025-07-28 01:10:45,471 - INFO - Board created for: think bout it, with 36 images.
+2025-07-28 01:10:45,497 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\uncommon poses with 108 images.
+2025-07-28 01:10:45,498 - INFO - Finished with - Board: uncommon poses, page 1 of 3
+2025-07-28 01:10:45,499 - INFO - Finished with - Board: uncommon poses, page 2 of 3
+2025-07-28 01:10:45,499 - INFO - Finished with - Board: uncommon poses, page 3 of 3
+2025-07-28 01:10:45,499 - INFO - Board created for: uncommon poses, with 108 images.
+2025-07-28 01:10:45,504 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\vivian james with 8 images.
+2025-07-28 01:10:45,505 - INFO - Finished with - Board: vivian james, page 1 of 1
+2025-07-28 01:10:45,505 - INFO - Board created for: vivian james, with 8 images.
+2025-07-28 01:10:45,591 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\coerciasink\Writing and Drawing Guides with 378 images.
+2025-07-28 01:10:45,592 - INFO - Finished with - Board: Writing and Drawing Guides, page 1 of 9
+2025-07-28 01:10:45,592 - INFO - Finished with - Board: Writing and Drawing Guides, page 2 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 3 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 4 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 5 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 6 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 7 of 9
+2025-07-28 01:10:45,593 - INFO - Finished with - Board: Writing and Drawing Guides, page 8 of 9
+2025-07-28 01:10:45,595 - INFO - Finished with - Board: Writing and Drawing Guides, page 9 of 9
+2025-07-28 01:10:45,595 - INFO - Board created for: Writing and Drawing Guides, with 378 images.
+2025-07-28 01:10:45,597 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\2024 trip_001.html
+2025-07-28 01:10:45,600 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Academic_001.html
+2025-07-28 01:10:45,603 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_001.html
+2025-07-28 01:10:45,607 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_002.html
+2025-07-28 01:10:45,609 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_003.html
+2025-07-28 01:10:45,612 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_004.html
+2025-07-28 01:10:45,615 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_005.html
+2025-07-28 01:10:45,618 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~frieren_001.html
+2025-07-28 01:10:45,622 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_001.html
+2025-07-28 01:10:45,625 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_002.html
+2025-07-28 01:10:45,627 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~maomao_003.html
+2025-07-28 01:10:45,630 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~memes_001.html
+2025-07-28 01:10:45,632 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anime expressions_~Misc_001.html
+2025-07-28 01:10:45,635 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_001.html
+2025-07-28 01:10:45,640 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_002.html
+2025-07-28 01:10:45,642 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_003.html
+2025-07-28 01:10:45,645 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_004.html
+2025-07-28 01:10:45,648 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_005.html
+2025-07-28 01:10:45,651 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_006.html
+2025-07-28 01:10:45,655 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_007.html
+2025-07-28 01:10:45,659 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_008.html
+2025-07-28 01:10:45,662 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_009.html
+2025-07-28 01:10:45,665 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_010.html
+2025-07-28 01:10:45,667 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Artworks_011.html
+2025-07-28 01:10:45,670 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Author stuff_001.html
+2025-07-28 01:10:45,674 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_001.html
+2025-07-28 01:10:45,676 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_001.html
+2025-07-28 01:10:45,679 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_002.html
+2025-07-28 01:10:45,681 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Book Recs_~to be removed_003.html
+2025-07-28 01:10:45,684 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_001.html
+2025-07-28 01:10:45,689 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_002.html
+2025-07-28 01:10:45,693 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_003.html
+2025-07-28 01:10:45,695 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\couple_004.html
+2025-07-28 01:10:45,698 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_001.html
+2025-07-28 01:10:45,700 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_002.html
+2025-07-28 01:10:45,704 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_003.html
+2025-07-28 01:10:45,708 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_004.html
+2025-07-28 01:10:45,711 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_005.html
+2025-07-28 01:10:45,713 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces_~hair_001.html
+2025-07-28 01:10:45,715 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_001.html
+2025-07-28 01:10:45,718 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Figure drawing examples_002.html
+2025-07-28 01:10:45,723 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_001.html
+2025-07-28 01:10:45,726 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Art tut_001.html
+2025-07-28 01:10:45,728 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~coffee_001.html
+2025-07-28 01:10:45,730 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Misc_~Exercise stuff_001.html
+2025-07-28 01:10:45,733 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_001.html
+2025-07-28 01:10:45,737 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_001.html
+2025-07-28 01:10:45,741 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~froesmari_002.html
+2025-07-28 01:10:45,744 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_001.html
+2025-07-28 01:10:45,746 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~mikkak.x_002.html
+2025-07-28 01:10:45,748 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~sabrinaNichole_001.html
+2025-07-28 01:10:45,751 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~taylorlashae_001.html
+2025-07-28 01:10:45,756 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Particular ppl_~yuprntae_001.html
+2025-07-28 01:10:45,759 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_001.html
+2025-07-28 01:10:45,762 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\possibly ai art_002.html
+2025-07-28 01:10:45,764 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Pretty wallpapers_001.html
+2025-07-28 01:10:45,767 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_001.html
+2025-07-28 01:10:45,772 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_002.html
+2025-07-28 01:10:45,775 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_003.html
+2025-07-28 01:10:45,777 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_004.html
+2025-07-28 01:10:45,780 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_005.html
+2025-07-28 01:10:45,781 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Quotes_006.html
+2025-07-28 01:10:45,784 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_001.html
+2025-07-28 01:10:45,790 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_002.html
+2025-07-28 01:10:45,791 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\tattoos_003.html
+2025-07-28 01:10:45,794 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_001.html
+2025-07-28 01:10:45,797 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_002.html
+2025-07-28 01:10:45,799 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\anatomy (morphology)_003.html
+2025-07-28 01:10:45,803 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\backgrounds_001.html
+2025-07-28 01:10:45,807 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_001.html
+2025-07-28 01:10:45,809 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_002.html
+2025-07-28 01:10:45,812 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Faces drawing inspo_003.html
+2025-07-28 01:10:45,814 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\glass objects_001.html
+2025-07-28 01:10:45,816 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_001.html
+2025-07-28 01:10:45,821 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_002.html
+2025-07-28 01:10:45,825 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Info_003.html
+2025-07-28 01:10:45,827 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Jewelery_001.html
+2025-07-28 01:10:45,829 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\little living things_001.html
+2025-07-28 01:10:45,832 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazine cover designs_001.html
+2025-07-28 01:10:45,834 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\magazines_001.html
+2025-07-28 01:10:45,838 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Media_001.html
+2025-07-28 01:10:45,842 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_001.html
+2025-07-28 01:10:45,844 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_002.html
+2025-07-28 01:10:45,847 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\memes_003.html
+2025-07-28 01:10:45,849 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_001.html
+2025-07-28 01:10:45,853 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_002.html
+2025-07-28 01:10:45,858 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_003.html
+2025-07-28 01:10:45,860 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\normal poses_004.html
+2025-07-28 01:10:45,863 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_001.html
+2025-07-28 01:10:45,866 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_002.html
+2025-07-28 01:10:45,869 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_003.html
+2025-07-28 01:10:45,875 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_004.html
+2025-07-28 01:10:45,878 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_005.html
+2025-07-28 01:10:45,882 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_006.html
+2025-07-28 01:10:45,885 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\outfits_007.html
+2025-07-28 01:10:45,890 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\portraits_001.html
+2025-07-28 01:10:45,892 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_001.html
+2025-07-28 01:10:45,894 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_002.html
+2025-07-28 01:10:45,899 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_003.html
+2025-07-28 01:10:45,904 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_004.html
+2025-07-28 01:10:45,910 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_005.html
+2025-07-28 01:10:45,912 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Poses to draw_006.html
+2025-07-28 01:10:45,915 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\self care_001.html
+2025-07-28 01:10:45,920 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\think bout it_001.html
+2025-07-28 01:10:45,925 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_001.html
+2025-07-28 01:10:45,928 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_002.html
+2025-07-28 01:10:45,931 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\uncommon poses_003.html
+2025-07-28 01:10:45,933 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\vivian james_001.html
+2025-07-28 01:10:45,936 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_001.html
+2025-07-28 01:10:45,942 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_002.html
+2025-07-28 01:10:45,944 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_003.html
+2025-07-28 01:10:45,947 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_004.html
+2025-07-28 01:10:45,950 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_005.html
+2025-07-28 01:10:45,955 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_006.html
+2025-07-28 01:10:45,959 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_007.html
+2025-07-28 01:10:45,962 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_008.html
+2025-07-28 01:10:45,965 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Writing and Drawing Guides_009.html
+2025-07-28 01:10:45,973 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:10:45,973 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:10:45,981 - INFO - Finished in 1.38 seconds.
+2025-07-28 01:12:22,784 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:14:39,131 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:14:39,138 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:14:39,138 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:14:39,146 - INFO - Finished in 0.02 seconds.
+2025-07-28 01:14:46,275 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:14:46,283 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:14:46,284 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:14:46,289 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:16:10,809 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:16:10,816 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:16:10,816 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:16:10,820 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:26:11,022 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:26:11,032 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:26:11,032 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:26:11,038 - INFO - Finished in 0.02 seconds.
+2025-07-28 01:26:13,163 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:26:13,171 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:26:13,171 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:26:13,176 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:27:35,687 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:27:35,694 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:27:35,695 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:27:35,699 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:28:26,514 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:28:26,522 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:28:26,522 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:28:26,527 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:28:38,551 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:28:38,558 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:28:38,558 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:28:38,565 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:29:58,961 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:29:58,969 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:29:58,969 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:29:58,971 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:39:24,587 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:39:24,595 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:39:24,595 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:39:24,598 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:41:04,985 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:41:04,993 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:41:04,994 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:41:04,997 - INFO - Finished in 0.01 seconds.
+2025-07-28 01:43:16,603 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:43:16,613 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:43:16,614 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:43:16,619 - INFO - Finished in 0.02 seconds.
+2025-07-28 01:46:55,867 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:46:55,874 - WARNING - Skipping non-existent directory: C:\Users\ggggg\root\personalScripts\gallery-dl\instagram,insta
+2025-07-28 01:46:55,876 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:46:55,876 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:46:55,885 - INFO - Finished in 0.02 seconds.
+2025-07-28 01:51:45,355 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:51:45,367 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram with 0 images.
+2025-07-28 01:51:45,454 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\art saved posts with 160 images.
+2025-07-28 01:51:45,456 - INFO - Finished with - Board: art saved posts, page 1 of 4
+2025-07-28 01:51:45,456 - INFO - Finished with - Board: art saved posts, page 2 of 4
+2025-07-28 01:51:45,457 - INFO - Finished with - Board: art saved posts, page 3 of 4
+2025-07-28 01:51:45,457 - INFO - Finished with - Board: art saved posts, page 4 of 4
+2025-07-28 01:51:45,457 - INFO - Board created: art saved posts (160 images)
+2025-07-28 01:51:45,458 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder with 0 images.
+2025-07-28 01:51:45,459 - INFO - Board created: New folder (0 images)
+2025-07-28 01:51:45,512 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\allecakes_ with 100 images.
+2025-07-28 01:51:45,512 - INFO - Finished with - Board: New folder_~allecakes_, page 1 of 3
+2025-07-28 01:51:45,513 - INFO - Finished with - Board: New folder_~allecakes_, page 2 of 3
+2025-07-28 01:51:45,513 - INFO - Finished with - Board: New folder_~allecakes_, page 3 of 3
+2025-07-28 01:51:45,513 - INFO - Board created: New folder_~allecakes_ (100 images)
+2025-07-28 01:51:46,302 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\lada with 1481 images.
+2025-07-28 01:51:46,302 - INFO - Finished with - Board: New folder_~lada, page 1 of 36
+2025-07-28 01:51:46,302 - INFO - Finished with - Board: New folder_~lada, page 2 of 36
+2025-07-28 01:51:46,303 - INFO - Finished with - Board: New folder_~lada, page 3 of 36
+2025-07-28 01:51:46,303 - INFO - Finished with - Board: New folder_~lada, page 4 of 36
+2025-07-28 01:51:46,303 - INFO - Finished with - Board: New folder_~lada, page 5 of 36
+2025-07-28 01:51:46,303 - INFO - Finished with - Board: New folder_~lada, page 6 of 36
+2025-07-28 01:51:46,304 - INFO - Finished with - Board: New folder_~lada, page 7 of 36
+2025-07-28 01:51:46,304 - INFO - Finished with - Board: New folder_~lada, page 8 of 36
+2025-07-28 01:51:46,304 - INFO - Finished with - Board: New folder_~lada, page 9 of 36
+2025-07-28 01:51:46,304 - INFO - Finished with - Board: New folder_~lada, page 10 of 36
+2025-07-28 01:51:46,305 - INFO - Finished with - Board: New folder_~lada, page 11 of 36
+2025-07-28 01:51:46,305 - INFO - Finished with - Board: New folder_~lada, page 12 of 36
+2025-07-28 01:51:46,305 - INFO - Finished with - Board: New folder_~lada, page 13 of 36
+2025-07-28 01:51:46,305 - INFO - Finished with - Board: New folder_~lada, page 14 of 36
+2025-07-28 01:51:46,305 - INFO - Finished with - Board: New folder_~lada, page 15 of 36
+2025-07-28 01:51:46,306 - INFO - Finished with - Board: New folder_~lada, page 16 of 36
+2025-07-28 01:51:46,306 - INFO - Finished with - Board: New folder_~lada, page 17 of 36
+2025-07-28 01:51:46,306 - INFO - Finished with - Board: New folder_~lada, page 18 of 36
+2025-07-28 01:51:46,306 - INFO - Finished with - Board: New folder_~lada, page 19 of 36
+2025-07-28 01:51:46,307 - INFO - Finished with - Board: New folder_~lada, page 20 of 36
+2025-07-28 01:51:46,307 - INFO - Finished with - Board: New folder_~lada, page 21 of 36
+2025-07-28 01:51:46,307 - INFO - Finished with - Board: New folder_~lada, page 22 of 36
+2025-07-28 01:51:46,307 - INFO - Finished with - Board: New folder_~lada, page 23 of 36
+2025-07-28 01:51:46,308 - INFO - Finished with - Board: New folder_~lada, page 24 of 36
+2025-07-28 01:51:46,308 - INFO - Finished with - Board: New folder_~lada, page 25 of 36
+2025-07-28 01:51:46,308 - INFO - Finished with - Board: New folder_~lada, page 26 of 36
+2025-07-28 01:51:46,308 - INFO - Finished with - Board: New folder_~lada, page 27 of 36
+2025-07-28 01:51:46,308 - INFO - Finished with - Board: New folder_~lada, page 28 of 36
+2025-07-28 01:51:46,309 - INFO - Finished with - Board: New folder_~lada, page 29 of 36
+2025-07-28 01:51:46,309 - INFO - Finished with - Board: New folder_~lada, page 30 of 36
+2025-07-28 01:51:46,309 - INFO - Finished with - Board: New folder_~lada, page 31 of 36
+2025-07-28 01:51:46,309 - INFO - Finished with - Board: New folder_~lada, page 32 of 36
+2025-07-28 01:51:46,310 - INFO - Finished with - Board: New folder_~lada, page 33 of 36
+2025-07-28 01:51:46,310 - INFO - Finished with - Board: New folder_~lada, page 34 of 36
+2025-07-28 01:51:46,310 - INFO - Finished with - Board: New folder_~lada, page 35 of 36
+2025-07-28 01:51:46,310 - INFO - Finished with - Board: New folder_~lada, page 36 of 36
+2025-07-28 01:51:46,310 - INFO - Board created: New folder_~lada (1481 images)
+2025-07-28 01:51:46,419 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\lydiajasmine.tv with 174 images.
+2025-07-28 01:51:46,419 - INFO - Finished with - Board: New folder_~lydiajasmine.tv, page 1 of 5
+2025-07-28 01:51:46,420 - INFO - Finished with - Board: New folder_~lydiajasmine.tv, page 2 of 5
+2025-07-28 01:51:46,420 - INFO - Finished with - Board: New folder_~lydiajasmine.tv, page 3 of 5
+2025-07-28 01:51:46,420 - INFO - Finished with - Board: New folder_~lydiajasmine.tv, page 4 of 5
+2025-07-28 01:51:46,421 - INFO - Finished with - Board: New folder_~lydiajasmine.tv, page 5 of 5
+2025-07-28 01:51:46,421 - INFO - Board created: New folder_~lydiajasmine.tv (174 images)
+2025-07-28 01:51:46,540 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\ms_puiyi with 100 images.
+2025-07-28 01:51:46,541 - INFO - Finished with - Board: New folder_~ms_puiyi, page 1 of 3
+2025-07-28 01:51:46,541 - INFO - Finished with - Board: New folder_~ms_puiyi, page 2 of 3
+2025-07-28 01:51:46,542 - INFO - Finished with - Board: New folder_~ms_puiyi, page 3 of 3
+2025-07-28 01:51:46,542 - INFO - Board created: New folder_~ms_puiyi (100 images)
+2025-07-28 01:51:46,661 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\rurusama9 with 100 images.
+2025-07-28 01:51:46,662 - INFO - Finished with - Board: New folder_~rurusama9, page 1 of 3
+2025-07-28 01:51:46,663 - INFO - Finished with - Board: New folder_~rurusama9, page 2 of 3
+2025-07-28 01:51:46,663 - INFO - Finished with - Board: New folder_~rurusama9, page 3 of 3
+2025-07-28 01:51:46,664 - INFO - Board created: New folder_~rurusama9 (100 images)
+2025-07-28 01:51:46,716 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\instagram\New folder\somepeople with 62 images.
+2025-07-28 01:51:46,717 - INFO - Finished with - Board: New folder_~somepeople, page 1 of 2
+2025-07-28 01:51:46,717 - INFO - Finished with - Board: New folder_~somepeople, page 2 of 2
+2025-07-28 01:51:46,717 - INFO - Board created: New folder_~somepeople (62 images)
+2025-07-28 01:51:46,720 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\art saved posts_001.html
+2025-07-28 01:51:46,725 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\art saved posts_002.html
+2025-07-28 01:51:46,729 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\art saved posts_003.html
+2025-07-28 01:51:46,736 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\art saved posts_004.html
+2025-07-28 01:51:46,741 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~allecakes__001.html
+2025-07-28 01:51:46,744 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~allecakes__002.html
+2025-07-28 01:51:46,749 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~allecakes__003.html
+2025-07-28 01:51:46,754 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_001.html
+2025-07-28 01:51:46,760 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_002.html
+2025-07-28 01:51:46,764 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_003.html
+2025-07-28 01:51:46,775 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_004.html
+2025-07-28 01:51:46,784 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_005.html
+2025-07-28 01:51:46,789 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_006.html
+2025-07-28 01:51:46,795 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_007.html
+2025-07-28 01:51:46,801 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_008.html
+2025-07-28 01:51:46,807 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_009.html
+2025-07-28 01:51:46,812 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_010.html
+2025-07-28 01:51:46,818 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_011.html
+2025-07-28 01:51:46,824 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_012.html
+2025-07-28 01:51:46,829 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_013.html
+2025-07-28 01:51:46,837 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_014.html
+2025-07-28 01:51:46,842 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_015.html
+2025-07-28 01:51:46,846 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_016.html
+2025-07-28 01:51:46,854 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_017.html
+2025-07-28 01:51:46,857 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_018.html
+2025-07-28 01:51:46,864 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_019.html
+2025-07-28 01:51:46,873 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_020.html
+2025-07-28 01:51:46,878 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_021.html
+2025-07-28 01:51:46,886 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_022.html
+2025-07-28 01:51:46,891 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_023.html
+2025-07-28 01:51:46,895 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_024.html
+2025-07-28 01:51:46,906 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_025.html
+2025-07-28 01:51:46,910 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_026.html
+2025-07-28 01:51:46,918 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_027.html
+2025-07-28 01:51:46,924 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_028.html
+2025-07-28 01:51:46,929 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_029.html
+2025-07-28 01:51:46,939 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_030.html
+2025-07-28 01:51:46,944 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_031.html
+2025-07-28 01:51:46,952 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_032.html
+2025-07-28 01:51:46,960 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_033.html
+2025-07-28 01:51:46,969 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_034.html
+2025-07-28 01:51:46,977 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_035.html
+2025-07-28 01:51:46,984 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lada_036.html
+2025-07-28 01:51:46,990 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lydiajasmine.tv_001.html
+2025-07-28 01:51:46,996 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lydiajasmine.tv_002.html
+2025-07-28 01:51:47,003 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lydiajasmine.tv_003.html
+2025-07-28 01:51:47,007 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lydiajasmine.tv_004.html
+2025-07-28 01:51:47,011 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~lydiajasmine.tv_005.html
+2025-07-28 01:51:47,020 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~ms_puiyi_001.html
+2025-07-28 01:51:47,024 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~ms_puiyi_002.html
+2025-07-28 01:51:47,028 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~ms_puiyi_003.html
+2025-07-28 01:51:47,035 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~rurusama9_001.html
+2025-07-28 01:51:47,040 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~rurusama9_002.html
+2025-07-28 01:51:47,045 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~rurusama9_003.html
+2025-07-28 01:51:47,051 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~somepeople_001.html
+2025-07-28 01:51:47,056 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\New folder_~somepeople_002.html
+2025-07-28 01:51:47,061 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:51:47,061 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:51:47,072 - INFO - Finished in 1.72 seconds.
+2025-07-28 01:52:52,825 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 01:52:52,833 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\flickr with 0 images.
+2025-07-28 01:52:53,049 - INFO - Processing C:\Users\ggggg\root\personalScripts\gallery-dl\flickr\Sean Archer with 557 images.
+2025-07-28 01:52:53,051 - INFO - Finished with - Board: Sean Archer, page 1 of 14
+2025-07-28 01:52:53,051 - INFO - Finished with - Board: Sean Archer, page 2 of 14
+2025-07-28 01:52:53,052 - INFO - Finished with - Board: Sean Archer, page 3 of 14
+2025-07-28 01:52:53,052 - INFO - Finished with - Board: Sean Archer, page 4 of 14
+2025-07-28 01:52:53,052 - INFO - Finished with - Board: Sean Archer, page 5 of 14
+2025-07-28 01:52:53,053 - INFO - Finished with - Board: Sean Archer, page 6 of 14
+2025-07-28 01:52:53,053 - INFO - Finished with - Board: Sean Archer, page 7 of 14
+2025-07-28 01:52:53,053 - INFO - Finished with - Board: Sean Archer, page 8 of 14
+2025-07-28 01:52:53,053 - INFO - Finished with - Board: Sean Archer, page 9 of 14
+2025-07-28 01:52:53,054 - INFO - Finished with - Board: Sean Archer, page 10 of 14
+2025-07-28 01:52:53,054 - INFO - Finished with - Board: Sean Archer, page 11 of 14
+2025-07-28 01:52:53,055 - INFO - Finished with - Board: Sean Archer, page 12 of 14
+2025-07-28 01:52:53,056 - INFO - Finished with - Board: Sean Archer, page 13 of 14
+2025-07-28 01:52:53,056 - INFO - Finished with - Board: Sean Archer, page 14 of 14
+2025-07-28 01:52:53,056 - INFO - Board created: Sean Archer (557 images)
+2025-07-28 01:52:53,063 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_001.html
+2025-07-28 01:52:53,068 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_002.html
+2025-07-28 01:52:53,072 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_003.html
+2025-07-28 01:52:53,077 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_004.html
+2025-07-28 01:52:53,083 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_005.html
+2025-07-28 01:52:53,088 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_006.html
+2025-07-28 01:52:53,091 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_007.html
+2025-07-28 01:52:53,097 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_008.html
+2025-07-28 01:52:53,102 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_009.html
+2025-07-28 01:52:53,105 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_010.html
+2025-07-28 01:52:53,111 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_011.html
+2025-07-28 01:52:53,117 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_012.html
+2025-07-28 01:52:53,120 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_013.html
+2025-07-28 01:52:53,123 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2\Sean Archer_014.html
+2025-07-28 01:52:53,128 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2\index.html
+2025-07-28 01:52:53,128 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2
+2025-07-28 01:52:53,133 - INFO - Finished in 0.31 seconds.
