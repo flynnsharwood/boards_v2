@@ -1,50 +1,49 @@
-from boards.classes import board #, page
+from boards.classes import board
 from boards.create import *
 
 import csv
+import os
+import time
+import re
+import yaml
+import argparse
+from datetime import date
+from collections import defaultdict
+from boards.log_utils import setup_logger
+from boards.boardmakers import *
+from pathlib import Path
+
 def getDirList(csvList, masterDir):
     all_rows = []
     for csv_path in csvList:
         with open(csv_path, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                # Prepend masterDir to target_directory
                 row["target_directory"] = os.path.join(masterDir, row["target_directory"])
                 all_rows.append(row)
-    # print(all_rows)
     return all_rows
 
 
-# --- the previous part has stuff that I might shift to a different file ---
-
-import time
+# Setup logger
 start_time = time.time()
-from datetime import date
-import argparse
-import yaml
-import os
-import re
-
-# set up logger
 today = date.today()
-from boards.log_utils import setup_logger
 logger = setup_logger(__name__)
-logger.info(f"today is {today}, Starting application...")
+logger.info(f"Today is {today}, Starting application...")
 
-# arguments 
+# Parse arguments
 parser = argparse.ArgumentParser(description="Generate HTML for media directories.")
 parser.add_argument('--random', type=int, help="Select N random images from a directory and generate HTML.")
 parser.add_argument('--ranDir', type=str, help="Directory to search images in for --random")
 parser.add_argument('--dir', type=str, help="Directory to use for the images")
 parser.add_argument('--csvs', nargs='+', help='List of CSV files to use')
-parser.add_argument('--useLists', action='store_true', help='use list files from config')
-parser.add_argument('--imageLists', nargs='+', help='List of imagelist files to use. videos can be used too, probably')
-parser.add_argument('--col', type=int, help='number of columns to default to (default is set in the config)')
-parser.add_argument('--margin', type=int, help='Margin in px (default is set in the config)')
-parser.add_argument('--upload', action='store_true', help='Upload images to Imgchest and replace local paths with uploaded URLs')
+parser.add_argument('--useLists', action='store_true', help='Use list files from config')
+parser.add_argument('--imageLists', nargs='+', help='List of imagelist files to use.')
+parser.add_argument('--col', type=int, help='Number of columns to default to')
+parser.add_argument('--margin', type=int, help='Margin in px')
+parser.add_argument('--upload', action='store_true', help='Upload images to Imgchest')
 args = parser.parse_args()
 
-# config
+# Load config
 def load_config(yml_path="config.yml"):
     with open(yml_path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -56,103 +55,79 @@ configCss = {
     'margin': args.margin if args.margin else config.get("margin", []),
 }
 paginate = bool(config.get('paginate', True))
+boards = []
 
-boards = [] # board instances to be stored in here
-
-
-
-from boards.boardmakers import *
-
-# imagelist case
+# Handle imagelist mode
 if args.useLists or args.imageLists:
     usingLists = True
-    imgList_List = args.imageLists if args.imageLists else config.get("imageLists", []) # list of list of images.
+    imgList_List = args.imageLists if args.imageLists else config.get("imageLists", [])
     masterDir = os.path.join(os.path.dirname(config["masterDir"]), 'imglists_v2')
     boards.extend(boardsForImglist(imgList_List, masterDir, paginate))
 else:
     usingLists = False
 
-# pages for each board has been made, in the case of using image lists.
-# aaaand now I gotta do this for the upload, and non upload modes
-# and who would forget the freakign random board option. fml.
-# Ooo what if I saved these board instances to disk?
-
-# if using localfiles
+# Handle upload
 if args.upload:
-    logger.info("upload case")
+    logger.info("Upload case")
     masterDir = os.path.join(os.path.dirname(config["masterDir"]), 'boardsUpload')
     upload = True
 else:
     upload = False
 
+# Determine directories to process
 csvList = args.csvs if args.csvs else config.get("csvList", [])
 if not csvList:
     logger.info("No CSV files provided. Set them in config.yml or pass using --csvs.")
     exit(1)
+
 if args.dir:
-    directories = [{'source_directory': args.dir, 'target_directory': masterDir + '_specified'}] # only one board for the directory specified
+    directories = [{'source_directory': args.dir, 'target_directory': masterDir + '_specified'}]
 else:
     directories = getDirList(csvList, masterDir)
 
-# we now have the directories to be used. Boards class do not contain other boards, but they might not need to
-# The nesting only matters while making the index file. And while making the actual board html files.
-
-# Now, create a board for each sub directory.
-
-if not args.random and not usingLists:  # normal and upload case
+# Handle standard board generation
+if not args.random and not usingLists:
     for directory in directories:
         source_dir = directory["source_directory"]
         target_dir = directory["target_directory"]
-        
+        media_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.mp4', '.avi', '.webm')
+        image_paths = []
+
         os.makedirs(target_dir, exist_ok=True)
 
         for root, _, files in os.walk(source_dir):
-            # Collect all image files in this subdirectory
-            image_paths = [
-                os.path.relpath(os.path.join(root, f), start=target_dir).replace("\\", "/")
-                for f in sorted(files)
-                if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.mp4', '.avi', '.webm'))
-            ]
+            for f in sorted(files):
+                if f.lower().endswith(media_extensions):
+                    abs_path = Path(os.path.join(root, f)).resolve()
+                    file_url = abs_path.as_uri()  # This creates file:///C:/... with percent-encoding only where needed
+                    image_paths.append(file_url)
 
-            # print(image_paths)
+
+            logger.info('image_paths are\n')
+            logger.info(image_paths)
 
             if not image_paths:
-                continue  # Skip folders with no images
+                continue
 
-            # Compute board name based on relative path from source_root
             rel_path = os.path.relpath(root, source_dir)
-
-            # board_name = os.path.basename(root) if rel_path == '.' else rel_path.replace('\\', '/')
             board_name = os.path.basename(root)
-            
             output_filename = re.sub(r'[^a-zA-Z0-9_\-]', '_', board_name) + ".html"
-            # output_file_loc = os.path.join(target_dir, output_filename)
             output_file_loc = target_dir
 
-            # Create the board
             b = board(
                 name=board_name,
                 output_file_loc=output_file_loc,
                 image_paths=image_paths,
-                paginate= paginate,
+                paginate=paginate,
                 images_per_page=42 if paginate else 10000,
                 upload=upload,
             )
-            subfolder_parts = rel_path.split(os.sep) if rel_path != '.' else []
-            b.subfolders = subfolder_parts
+
             b.paginate_board()
             boards.append(b)
             logger.info(f"Board created for: {board_name}, with {len(image_paths)} images.")
 
-# now we have all the boards that we need to generate.
-# We have all the info needed to create each board, so it should be easy enough to do it.
-# Actually we should go page by page, I think.
-
-
-# Okay so most of the time is being spent in this function. Why? Is there some sort of inefficiency in here?
-from collections import defaultdict
-
-# Group boards by their target_directory
+# Group boards by output directory and create output
 boards_by_directory = defaultdict(list)
 for b in boards:
     boardDir = os.path.dirname(b.output_file_loc)
@@ -162,13 +137,12 @@ for b in boards:
     for p in b.pages:
         create_html_file(p)
 
-# Only include root boards (top-level ones)
 root_boards = [b for b in boards if not any(b in parent.nested_boards for parent in boards)]
 create_index_file(root_boards, masterDir)
-
 create_css_file(masterDir, configCss)
 create_js_file(masterDir)
 
+# Print nested board tree
 def print_board_tree(boards, depth=0):
     for b in boards:
         print("  " * depth + f"- {b.name}")
@@ -178,27 +152,3 @@ print_board_tree(root_boards)
 
 elapsed_time = time.time() - start_time
 logger.info(f"Finished in {elapsed_time:.2f} seconds.")
-
-# psycopg integration and --random  features left.
-# index files for individual boards is not being made.
-# file not being shown properly.
-
-
-
-# to do 
-#   find out which function is spending the most time
-#   modularise the program
-#   as soon as you create 10 board instances, create the files for the boards and delete the boards
-#   ability to save boards information to disk. this might turn out to be unnecessary if this doesn't take as much time. 
-#   check older html creation funtions, to fix the images not showing.
-#   fix the pagination isssues
-    # get the pagination html part, the number of pages from the board instance.
-    # index links do not link to 1st pages 
-    # index links also do not work as links. they need to be right clicked, and can't be clicked and reached.
-    # the problem is in master index and index files for normal case, it is a problem for just the index in imgList case
-    # all boards have 42 pages, despite not having the links or the html files for them. 
-    # problem is with the pagination html, not the actual pagination.
-# add the older utilities back
-    # upload functions
-    # psycopg2 integration
-    # random utilities
