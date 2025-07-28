@@ -23718,3 +23718,350 @@
 2025-07-28 10:39:19,052 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2upload
 2025-07-28 10:39:19,157 - DEBUG - [<boards.classes.board object at 0x00000251F1766350>, <boards.classes.board object at 0x00000251F0B45450>, <boards.classes.board object at 0x00000251F17A0310>, <boards.classes.board object at 0x00000251F17D1850>, <boards.classes.board object at 0x00000251F17A2250>, <boards.classes.board object at 0x00000251F17D2410>, <boards.classes.board object at 0x00000251F09C3650>, <boards.classes.board object at 0x00000251F1787450>, <boards.classes.board object at 0x00000251F17DB290>]
 2025-07-28 10:39:19,158 - INFO - Finished in 28.58 seconds.
+2025-07-28 10:52:31,273 - INFO - Today is 2025-07-28, Starting application...
+2025-07-28 10:52:31,279 - INFO - Upload case
+2025-07-28 10:52:31,280 - DEBUG - Using config.directories → ['C:\\Users\\ggggg\\Desktop\\misc\\New folder', 'C:\\Users\\ggggg\\root\\personalScripts\\gallery-dl\\pinterest\\doncorgi', 'C:\\Users\\ggggg\\root\\personalScripts\\gallery-dl\\flickr', 'C:\\Users\\ggggg\\root\\personalScripts\\gallery-dl\\centrefolds', 'C:\\Users\\ggggg\\root\\personalScripts\\gallery-dl\\stock']
+2025-07-28 10:52:31,281 - INFO - No media in C:\Users\ggggg\Desktop\misc\New folder, creating empty board.
+2025-07-28 10:52:31,281 - INFO - Uploading 6 images from C:\Users\ggggg\Desktop\misc\New folder\bitmaps…
+2025-07-28 10:52:31,365 - INFO - Finished with - Board: New folder_~bitmaps, page 1 of 1
+2025-07-28 10:52:31,365 - INFO - Uploaded board created: New folder_~bitmaps (6 images)
+2025-07-28 10:52:31,367 - INFO - Uploading 26 images from C:\Users\ggggg\Desktop\misc\New folder\steriographic…
+2025-07-28 10:52:31,694 - INFO - Finished with - Board: New folder_~steriographic, page 1 of 1
+2025-07-28 10:52:31,694 - INFO - Uploaded board created: New folder_~steriographic (26 images)
+2025-07-28 10:52:31,695 - INFO - No media in C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi, creating empty board.
+2025-07-28 10:52:31,701 - INFO - Uploading 111 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Action Poses Reference Photos…
+2025-07-28 10:52:31,893 - INFO - Finished with - Board: doncorgi_~Action Poses Reference Photos, page 1 of 3
+2025-07-28 10:52:31,893 - INFO - Finished with - Board: doncorgi_~Action Poses Reference Photos, page 2 of 3
+2025-07-28 10:52:31,894 - INFO - Finished with - Board: doncorgi_~Action Poses Reference Photos, page 3 of 3
+2025-07-28 10:52:31,894 - INFO - Uploaded board created: doncorgi_~Action Poses Reference Photos (111 images)
+2025-07-28 10:52:31,895 - INFO - Uploading 20 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Cartoon Drawing Styles…
+2025-07-28 10:52:32,025 - INFO - Finished with - Board: doncorgi_~Cartoon Drawing Styles, page 1 of 1
+2025-07-28 10:52:32,026 - INFO - Uploaded board created: doncorgi_~Cartoon Drawing Styles (20 images)
+2025-07-28 10:52:32,037 - INFO - Uploading 201 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Female Anatomy References…
+2025-07-28 10:52:32,300 - INFO - Finished with - Board: doncorgi_~Female Anatomy References, page 1 of 5
+2025-07-28 10:52:32,300 - INFO - Finished with - Board: doncorgi_~Female Anatomy References, page 2 of 5
+2025-07-28 10:52:32,301 - INFO - Finished with - Board: doncorgi_~Female Anatomy References, page 3 of 5
+2025-07-28 10:52:32,301 - INFO - Finished with - Board: doncorgi_~Female Anatomy References, page 4 of 5
+2025-07-28 10:52:32,302 - INFO - Finished with - Board: doncorgi_~Female Anatomy References, page 5 of 5
+2025-07-28 10:52:32,302 - INFO - Uploaded board created: doncorgi_~Female Anatomy References (201 images)
+2025-07-28 10:52:32,308 - INFO - Uploading 218 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Figure Drawing Tutorials…
+2025-07-28 10:52:32,773 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 1 of 6
+2025-07-28 10:52:32,773 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 2 of 6
+2025-07-28 10:52:32,774 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 3 of 6
+2025-07-28 10:52:32,774 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 4 of 6
+2025-07-28 10:52:32,774 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 5 of 6
+2025-07-28 10:52:32,775 - INFO - Finished with - Board: doncorgi_~Figure Drawing Tutorials, page 6 of 6
+2025-07-28 10:52:32,775 - INFO - Uploaded board created: doncorgi_~Figure Drawing Tutorials (218 images)
+2025-07-28 10:52:32,777 - INFO - Uploading 19 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Goth Characters…
+2025-07-28 10:52:32,954 - INFO - Finished with - Board: doncorgi_~Goth Characters, page 1 of 1
+2025-07-28 10:52:32,955 - INFO - Uploaded board created: doncorgi_~Goth Characters (19 images)
+2025-07-28 10:52:32,956 - INFO - Uploading 21 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Illustration Styles…
+2025-07-28 10:52:33,137 - INFO - Finished with - Board: doncorgi_~Illustration Styles, page 1 of 1
+2025-07-28 10:52:33,138 - INFO - Uploaded board created: doncorgi_~Illustration Styles (21 images)
+2025-07-28 10:52:33,142 - INFO - Uploading 127 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Male Anatomy References…
+2025-07-28 10:52:33,465 - INFO - Finished with - Board: doncorgi_~Male Anatomy References, page 1 of 4
+2025-07-28 10:52:33,466 - INFO - Finished with - Board: doncorgi_~Male Anatomy References, page 2 of 4
+2025-07-28 10:52:33,466 - INFO - Finished with - Board: doncorgi_~Male Anatomy References, page 3 of 4
+2025-07-28 10:52:33,467 - INFO - Finished with - Board: doncorgi_~Male Anatomy References, page 4 of 4
+2025-07-28 10:52:33,468 - INFO - Uploaded board created: doncorgi_~Male Anatomy References (127 images)
+2025-07-28 10:52:33,474 - INFO - Uploading 176 images from C:\Users\ggggg\root\personalScripts\gallery-dl\pinterest\doncorgi\Sitting Pose Reference Photos…
+2025-07-28 10:52:34,281 - INFO - Finished with - Board: doncorgi_~Sitting Pose Reference Photos, page 1 of 5
+2025-07-28 10:52:34,281 - INFO - Finished with - Board: doncorgi_~Sitting Pose Reference Photos, page 2 of 5
+2025-07-28 10:52:34,282 - INFO - Finished with - Board: doncorgi_~Sitting Pose Reference Photos, page 3 of 5
+2025-07-28 10:52:34,283 - INFO - Finished with - Board: doncorgi_~Sitting Pose Reference Photos, page 4 of 5
+2025-07-28 10:52:34,283 - INFO - Finished with - Board: doncorgi_~Sitting Pose Reference Photos, page 5 of 5
+2025-07-28 10:52:34,284 - INFO - Uploaded board created: doncorgi_~Sitting Pose Reference Photos (176 images)
+2025-07-28 10:52:34,286 - INFO - No media in C:\Users\ggggg\root\personalScripts\gallery-dl\flickr, creating empty board.
+2025-07-28 10:52:34,308 - INFO - Uploading 557 images from C:\Users\ggggg\root\personalScripts\gallery-dl\flickr\Sean Archer…
+2025-07-28 10:52:37,514 - INFO - Finished with - Board: flickr_~Sean Archer, page 1 of 14
+2025-07-28 10:52:37,515 - INFO - Finished with - Board: flickr_~Sean Archer, page 2 of 14
+2025-07-28 10:52:37,515 - INFO - Finished with - Board: flickr_~Sean Archer, page 3 of 14
+2025-07-28 10:52:37,516 - INFO - Finished with - Board: flickr_~Sean Archer, page 4 of 14
+2025-07-28 10:52:37,516 - INFO - Finished with - Board: flickr_~Sean Archer, page 5 of 14
+2025-07-28 10:52:37,517 - INFO - Finished with - Board: flickr_~Sean Archer, page 6 of 14
+2025-07-28 10:52:37,517 - INFO - Finished with - Board: flickr_~Sean Archer, page 7 of 14
+2025-07-28 10:52:37,517 - INFO - Finished with - Board: flickr_~Sean Archer, page 8 of 14
+2025-07-28 10:52:37,518 - INFO - Finished with - Board: flickr_~Sean Archer, page 9 of 14
+2025-07-28 10:52:37,518 - INFO - Finished with - Board: flickr_~Sean Archer, page 10 of 14
+2025-07-28 10:52:37,518 - INFO - Finished with - Board: flickr_~Sean Archer, page 11 of 14
+2025-07-28 10:52:37,518 - INFO - Finished with - Board: flickr_~Sean Archer, page 12 of 14
+2025-07-28 10:52:37,520 - INFO - Finished with - Board: flickr_~Sean Archer, page 13 of 14
+2025-07-28 10:52:37,520 - INFO - Finished with - Board: flickr_~Sean Archer, page 14 of 14
+2025-07-28 10:52:37,521 - INFO - Uploaded board created: flickr_~Sean Archer (557 images)
+2025-07-28 10:52:37,522 - INFO - No media in C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds, creating empty board.
+2025-07-28 10:52:37,548 - INFO - Uploading 691 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\centrefolds…
+2025-07-28 10:52:38,501 - INFO - Finished with - Board: centrefolds_~centrefolds, page 1 of 17
+2025-07-28 10:52:38,502 - INFO - Finished with - Board: centrefolds_~centrefolds, page 2 of 17
+2025-07-28 10:52:38,503 - INFO - Finished with - Board: centrefolds_~centrefolds, page 3 of 17
+2025-07-28 10:52:38,503 - INFO - Finished with - Board: centrefolds_~centrefolds, page 4 of 17
+2025-07-28 10:52:38,504 - INFO - Finished with - Board: centrefolds_~centrefolds, page 5 of 17
+2025-07-28 10:52:38,504 - INFO - Finished with - Board: centrefolds_~centrefolds, page 6 of 17
+2025-07-28 10:52:38,504 - INFO - Finished with - Board: centrefolds_~centrefolds, page 7 of 17
+2025-07-28 10:52:38,505 - INFO - Finished with - Board: centrefolds_~centrefolds, page 8 of 17
+2025-07-28 10:52:38,505 - INFO - Finished with - Board: centrefolds_~centrefolds, page 9 of 17
+2025-07-28 10:52:38,506 - INFO - Finished with - Board: centrefolds_~centrefolds, page 10 of 17
+2025-07-28 10:52:38,506 - INFO - Finished with - Board: centrefolds_~centrefolds, page 11 of 17
+2025-07-28 10:52:38,508 - INFO - Finished with - Board: centrefolds_~centrefolds, page 12 of 17
+2025-07-28 10:52:38,508 - INFO - Finished with - Board: centrefolds_~centrefolds, page 13 of 17
+2025-07-28 10:52:38,509 - INFO - Finished with - Board: centrefolds_~centrefolds, page 14 of 17
+2025-07-28 10:52:38,509 - INFO - Finished with - Board: centrefolds_~centrefolds, page 15 of 17
+2025-07-28 10:52:38,509 - INFO - Finished with - Board: centrefolds_~centrefolds, page 16 of 17
+2025-07-28 10:52:38,510 - INFO - Finished with - Board: centrefolds_~centrefolds, page 17 of 17
+2025-07-28 10:52:38,510 - INFO - Uploaded board created: centrefolds_~centrefolds (691 images)
+2025-07-28 10:52:38,519 - INFO - Uploading 215 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy…
+2025-07-28 10:52:40,138 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 1 of 6
+2025-07-28 10:52:40,139 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 2 of 6
+2025-07-28 10:52:40,139 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 3 of 6
+2025-07-28 10:52:40,139 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 4 of 6
+2025-07-28 10:52:40,140 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 5 of 6
+2025-07-28 10:52:40,140 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy, page 6 of 6
+2025-07-28 10:52:40,140 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy (215 images)
+2025-07-28 10:52:40,142 - INFO - Uploading 2 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Amy_Sue_Cooper…
+2025-07-28 10:52:40,231 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper, page 1 of 1
+2025-07-28 10:52:40,232 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper (2 images)
+2025-07-28 10:52:40,233 - INFO - Uploading 3 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Dani_Mathers…
+2025-07-28 10:52:40,299 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Dani_Mathers, page 1 of 1
+2025-07-28 10:52:40,300 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Dani_Mathers (3 images)
+2025-07-28 10:52:40,300 - INFO - Uploading 3 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\German_playmates_2024…
+2025-07-28 10:52:40,396 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~German_playmates_2024, page 1 of 1
+2025-07-28 10:52:40,397 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~German_playmates_2024 (3 images)
+2025-07-28 10:52:40,398 - INFO - Uploading 5 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Jenny_McCarthy…
+2025-07-28 10:52:40,499 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy, page 1 of 1
+2025-07-28 10:52:40,500 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy (5 images)
+2025-07-28 10:52:40,501 - INFO - Uploading 6 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Jessa_Lynn_Hinton…
+2025-07-28 10:52:40,706 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton, page 1 of 1
+2025-07-28 10:52:40,707 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton (6 images)
+2025-07-28 10:52:40,708 - INFO - Uploading 2 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Karen_McDougal…
+2025-07-28 10:52:40,819 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Karen_McDougal, page 1 of 1
+2025-07-28 10:52:40,819 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Karen_McDougal (2 images)
+2025-07-28 10:52:40,821 - INFO - Uploading 9 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Laura_Lynn…
+2025-07-28 10:52:40,936 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Laura_Lynn, page 1 of 1
+2025-07-28 10:52:40,937 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Laura_Lynn (9 images)
+2025-07-28 10:52:40,938 - INFO - Uploading 8 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Lauren_Compton…
+2025-07-28 10:52:41,040 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Lauren_Compton, page 1 of 1
+2025-07-28 10:52:41,041 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Lauren_Compton (8 images)
+2025-07-28 10:52:41,042 - INFO - Uploading 8 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Lauren_Elise_AkA_Lauren_Compton…
+2025-07-28 10:52:41,153 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton, page 1 of 1
+2025-07-28 10:52:41,153 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton (8 images)
+2025-07-28 10:52:41,155 - INFO - Uploading 5 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Lindsay_Lohan_Holiday_Anniversary_issue_2012…
+2025-07-28 10:52:41,269 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012, page 1 of 1
+2025-07-28 10:52:41,269 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012 (5 images)
+2025-07-28 10:52:41,271 - INFO - Uploading 20 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\My_Top_20_model_hottest_play-boy…
+2025-07-28 10:52:41,434 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy, page 1 of 1
+2025-07-28 10:52:41,435 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy (20 images)
+2025-07-28 10:52:41,436 - INFO - Uploading 3 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Natalia_Andreeva…
+2025-07-28 10:52:41,534 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva, page 1 of 1
+2025-07-28 10:52:41,534 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva (3 images)
+2025-07-28 10:52:41,536 - INFO - Uploading 4 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Pamela_Anderson_1989…
+2025-07-28 10:52:41,744 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989, page 1 of 1
+2025-07-28 10:52:41,745 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989 (4 images)
+2025-07-28 10:52:41,746 - INFO - Uploading 5 images from C:\Users\ggggg\root\personalScripts\gallery-dl\centrefolds\reddit_sub_Playboy\Rachel_Harris…
+2025-07-28 10:52:41,822 - INFO - Finished with - Board: centrefolds_~reddit_sub_Playboy_~Rachel_Harris, page 1 of 1
+2025-07-28 10:52:41,822 - INFO - Uploaded board created: centrefolds_~reddit_sub_Playboy_~Rachel_Harris (5 images)
+2025-07-28 10:52:41,823 - INFO - No media in C:\Users\ggggg\root\personalScripts\gallery-dl\stock, creating empty board.
+2025-07-28 10:52:41,827 - INFO - Uploading 90 images from C:\Users\ggggg\root\personalScripts\gallery-dl\stock\indian celebs…
+2025-07-28 10:52:43,084 - INFO - Finished with - Board: stock_~indian celebs, page 1 of 3
+2025-07-28 10:52:43,085 - INFO - Finished with - Board: stock_~indian celebs, page 2 of 3
+2025-07-28 10:52:43,086 - INFO - Finished with - Board: stock_~indian celebs, page 3 of 3
+2025-07-28 10:52:43,086 - INFO - Uploaded board created: stock_~indian celebs (90 images)
+2025-07-28 10:52:43,091 - INFO - Uploading 91 images from C:\Users\ggggg\root\personalScripts\gallery-dl\stock\mega…
+2025-07-28 10:52:43,737 - INFO - Finished with - Board: stock_~mega, page 1 of 3
+2025-07-28 10:52:43,739 - INFO - Finished with - Board: stock_~mega, page 2 of 3
+2025-07-28 10:52:43,739 - INFO - Finished with - Board: stock_~mega, page 3 of 3
+2025-07-28 10:52:43,740 - INFO - Uploaded board created: stock_~mega (91 images)
+2025-07-28 10:52:43,741 - INFO - No media in C:\Users\ggggg\root\personalScripts\gallery-dl\stock\mj ranum, creating empty board.
+2025-07-28 10:52:43,750 - INFO - Uploading 118 images from C:\Users\ggggg\root\personalScripts\gallery-dl\stock\mj ranum\classical nudes…
+2025-07-28 10:52:44,247 - INFO - Finished with - Board: stock_~mj ranum_~classical nudes, page 1 of 3
+2025-07-28 10:52:44,248 - INFO - Finished with - Board: stock_~mj ranum_~classical nudes, page 2 of 3
+2025-07-28 10:52:44,248 - INFO - Finished with - Board: stock_~mj ranum_~classical nudes, page 3 of 3
+2025-07-28 10:52:44,248 - INFO - Uploaded board created: stock_~mj ranum_~classical nudes (118 images)
+2025-07-28 10:52:44,250 - INFO - Uploading 10 images from C:\Users\ggggg\root\personalScripts\gallery-dl\stock\sara llamas…
+2025-07-28 10:52:44,321 - INFO - Finished with - Board: stock_~sara llamas, page 1 of 1
+2025-07-28 10:52:44,322 - INFO - Uploaded board created: stock_~sara llamas (10 images)
+2025-07-28 10:52:44,322 - DEBUG - Board Map Keys:  ['New folder', 'New folder_~bitmaps', 'New folder_~steriographic', 'doncorgi', 'doncorgi_~Action Poses Reference Photos', 'doncorgi_~Cartoon Drawing Styles', 'doncorgi_~Female Anatomy References', 'doncorgi_~Figure Drawing Tutorials', 'doncorgi_~Goth Characters', 'doncorgi_~Illustration Styles', 'doncorgi_~Male Anatomy References', 'doncorgi_~Sitting Pose Reference Photos', 'flickr', 'flickr_~Sean Archer', 'centrefolds', 'centrefolds_~centrefolds', 'centrefolds_~reddit_sub_Playboy', 'centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper', 'centrefolds_~reddit_sub_Playboy_~Dani_Mathers', 'centrefolds_~reddit_sub_Playboy_~German_playmates_2024', 'centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy', 'centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton', 'centrefolds_~reddit_sub_Playboy_~Karen_McDougal', 'centrefolds_~reddit_sub_Playboy_~Laura_Lynn', 'centrefolds_~reddit_sub_Playboy_~Lauren_Compton', 'centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton', 'centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012', 'centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy', 'centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva', 'centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989', 'centrefolds_~reddit_sub_Playboy_~Rachel_Harris', 'stock', 'stock_~indian celebs', 'stock_~mega', 'stock_~mj ranum', 'stock_~mj ranum_~classical nudes', 'stock_~sara llamas']
+2025-07-28 10:52:44,322 - DEBUG - [<boards.classes.board object at 0x00000173FF995790>, <boards.classes.board object at 0x00000173FF996990>, <boards.classes.board object at 0x00000173FF996E10>, <boards.classes.board object at 0x00000173FF994B90>, <boards.classes.board object at 0x00000173FFA42590>]
+2025-07-28 10:52:44,326 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\New folder_~bitmaps_001.html
+2025-07-28 10:52:44,330 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\New folder_~steriographic_001.html
+2025-07-28 10:52:44,333 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Action Poses Reference Photos_001.html
+2025-07-28 10:52:44,335 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Action Poses Reference Photos_002.html
+2025-07-28 10:52:44,345 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Action Poses Reference Photos_003.html
+2025-07-28 10:52:44,353 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Cartoon Drawing Styles_001.html
+2025-07-28 10:52:44,363 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Female Anatomy References_001.html
+2025-07-28 10:52:44,372 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Female Anatomy References_002.html
+2025-07-28 10:52:44,382 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Female Anatomy References_003.html
+2025-07-28 10:52:44,391 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Female Anatomy References_004.html
+2025-07-28 10:52:44,401 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Female Anatomy References_005.html
+2025-07-28 10:52:44,411 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_001.html
+2025-07-28 10:52:44,420 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_002.html
+2025-07-28 10:52:44,432 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_003.html
+2025-07-28 10:52:44,442 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_004.html
+2025-07-28 10:52:44,453 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_005.html
+2025-07-28 10:52:44,465 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Figure Drawing Tutorials_006.html
+2025-07-28 10:52:44,474 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Goth Characters_001.html
+2025-07-28 10:52:44,483 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Illustration Styles_001.html
+2025-07-28 10:52:44,492 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Male Anatomy References_001.html
+2025-07-28 10:52:44,503 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Male Anatomy References_002.html
+2025-07-28 10:52:44,512 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Male Anatomy References_003.html
+2025-07-28 10:52:44,520 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Male Anatomy References_004.html
+2025-07-28 10:52:44,532 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Sitting Pose Reference Photos_001.html
+2025-07-28 10:52:44,541 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Sitting Pose Reference Photos_002.html
+2025-07-28 10:52:44,552 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Sitting Pose Reference Photos_003.html
+2025-07-28 10:52:44,562 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Sitting Pose Reference Photos_004.html
+2025-07-28 10:52:44,569 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\doncorgi_~Sitting Pose Reference Photos_005.html
+2025-07-28 10:52:44,580 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_001.html
+2025-07-28 10:52:44,589 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_002.html
+2025-07-28 10:52:44,603 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_003.html
+2025-07-28 10:52:44,615 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_004.html
+2025-07-28 10:52:44,625 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_005.html
+2025-07-28 10:52:44,634 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_006.html
+2025-07-28 10:52:44,644 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_007.html
+2025-07-28 10:52:44,656 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_008.html
+2025-07-28 10:52:44,666 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_009.html
+2025-07-28 10:52:44,676 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_010.html
+2025-07-28 10:52:44,686 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_011.html
+2025-07-28 10:52:44,694 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_012.html
+2025-07-28 10:52:44,703 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_013.html
+2025-07-28 10:52:44,712 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\flickr_~Sean Archer_014.html
+2025-07-28 10:52:44,722 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_001.html
+2025-07-28 10:52:44,731 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_002.html
+2025-07-28 10:52:44,741 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_003.html
+2025-07-28 10:52:44,752 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_004.html
+2025-07-28 10:52:44,762 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_005.html
+2025-07-28 10:52:44,770 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_006.html
+2025-07-28 10:52:44,781 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_007.html
+2025-07-28 10:52:44,792 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_008.html
+2025-07-28 10:52:44,802 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_009.html
+2025-07-28 10:52:44,812 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_010.html
+2025-07-28 10:52:44,822 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_011.html
+2025-07-28 10:52:44,851 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_012.html
+2025-07-28 10:52:44,868 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_013.html
+2025-07-28 10:52:44,881 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_014.html
+2025-07-28 10:52:44,894 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_015.html
+2025-07-28 10:52:44,903 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_016.html
+2025-07-28 10:52:44,915 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~centrefolds_017.html
+2025-07-28 10:52:44,926 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_001.html
+2025-07-28 10:52:44,938 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_002.html
+2025-07-28 10:52:44,949 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_003.html
+2025-07-28 10:52:44,962 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_004.html
+2025-07-28 10:52:44,974 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_005.html
+2025-07-28 10:52:44,982 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_006.html
+2025-07-28 10:52:44,991 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper_001.html
+2025-07-28 10:52:45,000 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Dani_Mathers_001.html
+2025-07-28 10:52:45,009 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~German_playmates_2024_001.html
+2025-07-28 10:52:45,018 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy_001.html
+2025-07-28 10:52:45,027 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton_001.html
+2025-07-28 10:52:45,035 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Karen_McDougal_001.html
+2025-07-28 10:52:45,044 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Laura_Lynn_001.html
+2025-07-28 10:52:45,053 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Lauren_Compton_001.html
+2025-07-28 10:52:45,062 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton_001.html
+2025-07-28 10:52:45,070 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012_001.html
+2025-07-28 10:52:45,079 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy_001.html
+2025-07-28 10:52:45,086 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva_001.html
+2025-07-28 10:52:45,094 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989_001.html
+2025-07-28 10:52:45,102 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\centrefolds_~reddit_sub_Playboy_~Rachel_Harris_001.html
+2025-07-28 10:52:45,112 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~indian celebs_001.html
+2025-07-28 10:52:45,124 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~indian celebs_002.html
+2025-07-28 10:52:45,135 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~indian celebs_003.html
+2025-07-28 10:52:45,148 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mega_001.html
+2025-07-28 10:52:45,160 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mega_002.html
+2025-07-28 10:52:45,167 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mega_003.html
+2025-07-28 10:52:45,180 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mj ranum_~classical nudes_001.html
+2025-07-28 10:52:45,191 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mj ranum_~classical nudes_002.html
+2025-07-28 10:52:45,203 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~mj ranum_~classical nudes_003.html
+2025-07-28 10:52:45,215 - INFO - Writing file at: C:/Users/ggggg/Desktop/boards_v2upload\stock_~sara llamas_001.html
+2025-07-28 10:52:45,220 - DEBUG - nestedhtml
+2025-07-28 10:52:45,220 - DEBUG - <ul>
+<li><a class="link" href="New folder_001.html">New folder</a>
+<ul>
+<li><a class="link" href="New folder_~bitmaps_001.html">New folder_~bitmaps</a>
+</li>
+<li><a class="link" href="New folder_~steriographic_001.html">New folder_~steriographic</a>
+</li>
+</ul>
+</li>
+<li><a class="link" href="doncorgi_001.html">doncorgi</a>
+<ul>
+<li><a class="link" href="doncorgi_~Action Poses Reference Photos_001.html">doncorgi_~Action Poses Reference Photos</a>
+</li>
+<li><a class="link" href="doncorgi_~Cartoon Drawing Styles_001.html">doncorgi_~Cartoon Drawing Styles</a>
+</li>
+<li><a class="link" href="doncorgi_~Female Anatomy References_001.html">doncorgi_~Female Anatomy References</a>
+</li>
+<li><a class="link" href="doncorgi_~Figure Drawing Tutorials_001.html">doncorgi_~Figure Drawing Tutorials</a>
+</li>
+<li><a class="link" href="doncorgi_~Goth Characters_001.html">doncorgi_~Goth Characters</a>
+</li>
+<li><a class="link" href="doncorgi_~Illustration Styles_001.html">doncorgi_~Illustration Styles</a>
+</li>
+<li><a class="link" href="doncorgi_~Male Anatomy References_001.html">doncorgi_~Male Anatomy References</a>
+</li>
+<li><a class="link" href="doncorgi_~Sitting Pose Reference Photos_001.html">doncorgi_~Sitting Pose Reference Photos</a>
+</li>
+</ul>
+</li>
+<li><a class="link" href="flickr_001.html">flickr</a>
+<ul>
+<li><a class="link" href="flickr_~Sean Archer_001.html">flickr_~Sean Archer</a>
+</li>
+</ul>
+</li>
+<li><a class="link" href="centrefolds_001.html">centrefolds</a>
+<ul>
+<li><a class="link" href="centrefolds_~centrefolds_001.html">centrefolds_~centrefolds</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_001.html">centrefolds_~reddit_sub_Playboy</a>
+<ul>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper_001.html">centrefolds_~reddit_sub_Playboy_~Amy_Sue_Cooper</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Dani_Mathers_001.html">centrefolds_~reddit_sub_Playboy_~Dani_Mathers</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~German_playmates_2024_001.html">centrefolds_~reddit_sub_Playboy_~German_playmates_2024</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy_001.html">centrefolds_~reddit_sub_Playboy_~Jenny_McCarthy</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton_001.html">centrefolds_~reddit_sub_Playboy_~Jessa_Lynn_Hinton</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Karen_McDougal_001.html">centrefolds_~reddit_sub_Playboy_~Karen_McDougal</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Laura_Lynn_001.html">centrefolds_~reddit_sub_Playboy_~Laura_Lynn</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Lauren_Compton_001.html">centrefolds_~reddit_sub_Playboy_~Lauren_Compton</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton_001.html">centrefolds_~reddit_sub_Playboy_~Lauren_Elise_AkA_Lauren_Compton</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012_001.html">centrefolds_~reddit_sub_Playboy_~Lindsay_Lohan_Holiday_Anniversary_issue_2012</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy_001.html">centrefolds_~reddit_sub_Playboy_~My_Top_20_model_hottest_play-boy</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva_001.html">centrefolds_~reddit_sub_Playboy_~Natalia_Andreeva</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989_001.html">centrefolds_~reddit_sub_Playboy_~Pamela_Anderson_1989</a>
+</li>
+<li><a class="link" href="centrefolds_~reddit_sub_Playboy_~Rachel_Harris_001.html">centrefolds_~reddit_sub_Playboy_~Rachel_Harris</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="link" href="stock_001.html">stock</a>
+<ul>
+<li><a class="link" href="stock_~indian celebs_001.html">stock_~indian celebs</a>
+</li>
+<li><a class="link" href="stock_~mega_001.html">stock_~mega</a>
+</li>
+<li><a class="link" href="stock_~mj ranum_001.html">stock_~mj ranum</a>
+<ul>
+<li><a class="link" href="stock_~mj ranum_~classical nudes_001.html">stock_~mj ranum_~classical nudes</a>
+</li>
+</ul>
+</li>
+<li><a class="link" href="stock_~sara llamas_001.html">stock_~sara llamas</a>
+</li>
+</ul>
+</li>
+</ul>
+
+2025-07-28 10:52:45,222 - INFO - index file created, location is - C:/Users/ggggg/Desktop/boards_v2upload\index.html
+2025-07-28 10:52:45,224 - INFO - creating css file at C:/Users/ggggg/Desktop/boards_v2upload
+2025-07-28 10:52:45,237 - DEBUG - [<boards.classes.board object at 0x00000173FF995790>, <boards.classes.board object at 0x00000173FF996990>, <boards.classes.board object at 0x00000173FF996E10>, <boards.classes.board object at 0x00000173FF994B90>, <boards.classes.board object at 0x00000173FFA42590>]
+2025-07-28 10:52:45,238 - INFO - Finished in 13.97 seconds.
